@@ -38,8 +38,11 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
     * [What scant documentation I could find](https://web.stanford.edu/~pch/robowar/)
 * [Battle Droids (1991)](https://corewar.co.uk/battledroids.htm)
 * [ARobots (1992)](https://corewar.co.uk/arobots.htm)
+* [AT-Robots (1992)](http://necrobones.com/atrobots/)
 * [Combat Zone (1993)](https://corewar.co.uk/combatzone.htm)
 * [CoreLife (1993)](https://corewar.co.uk/corelife.htm)
+* [TclRobots (1994)](https://github.com/jonasferry/TclRobots)
+* [TORCS (1997)](http://torcs.sourceforge.net/)
 
 <!-- GNU Robots -->
 <!-- Comb through unsorted bookmarks -->
