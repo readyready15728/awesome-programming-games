@@ -40,3 +40,10 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 * [ARobots (1992)](https://corewar.co.uk/arobots.htm)a
 * [Combat Zone (1993)](https://corewar.co.uk/combatzone.htm)
 * [CoreLife (1993)](https://corewar.co.uk/corelife.htm)
+
+<!-- GNU Robots -->
+<!-- Comb through unsorted bookmarks -->
+<!-- Carnage Heart -->
+<!-- MindRover? -->
+<!-- Wikipedia category for programming games -->
+<!-- That new logic game coming out on Steam -->
