@@ -37,7 +37,7 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
     * [Modern implementation of the same](http://robowar.sourceforge.net/RoboWar5/)
     * [What scant documentation I could find](https://web.stanford.edu/~pch/robowar/)
 * [Battle Droids (1991)](https://corewar.co.uk/battledroids.htm)
-* [ARobots (1992)](https://corewar.co.uk/arobots.htm)a
+* [ARobots (1992)](https://corewar.co.uk/arobots.htm)
 * [Combat Zone (1993)](https://corewar.co.uk/combatzone.htm)
 * [CoreLife (1993)](https://corewar.co.uk/corelife.htm)
 
