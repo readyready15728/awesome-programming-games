@@ -44,6 +44,18 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 * [TclRobots (1994)](https://github.com/jonasferry/TclRobots)
 * [TORCS (1997)](http://torcs.sourceforge.net/)
 
+# Recent Games, Traditional Software
+
+## Zachtronics
+
+* [SpaceChem](http://www.zachtronics.com/spacechem/)
+* [Infinifactory](http://www.zachtronics.com/infinifactory/)
+* [TIS-100](http://www.zachtronics.com/tis-100/)
+* [SHENZHEN I/O](http://www.zachtronics.com/shenzhen-io/)
+* [Opus Magnum](http://www.zachtronics.com/opus-magnum/)
+* [EXAPUNKS](http://www.zachtronics.com/exapunks/)
+* [MOLEK-SYNTEZ](http://www.zachtronics.com/molek-syntez/)
+
 <!-- GNU Robots -->
 <!-- Comb through unsorted bookmarks -->
 <!-- Carnage Heart -->
