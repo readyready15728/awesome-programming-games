@@ -25,7 +25,7 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 * [Core War (1984)](https://corewar.co.uk/)
 * [Robot Odyssey](https://en.wikipedia.org/wiki/Robot_Odyssey) (article
   includes links to usable implementations and manual)
-* [Arena (1985](https://corewar.co.uk/arena.htm)
+* [Arena (1985)](https://corewar.co.uk/arena.htm)
 * [CROBOTS (1985)](https://corewar.co.uk/crobots.htm)
 * [P-Robots (1988)](https://corewar.co.uk/probots.htm)
 * [Xtank (1988)](http://www.xtank.org/) (project being modernized on GitHub;
