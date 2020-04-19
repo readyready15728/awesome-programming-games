@@ -7,7 +7,9 @@ or more reimplementations, or both. Examples such as
 [Struggle](https://pages.lip6.fr/Christian.Queinnec/WWW/Concurrency.html) are
 all well and good but are excluded by this criterion. Additionally there have
 to be at least some scraps of documentation. This would appear to exclude a
-game like ['bot](https://corewar.co.uk/bot.htm).)
+game like ['bot](https://corewar.co.uk/bot.htm). One final restriction is that
+gamified but otherwise conventional coding challenges such as
+[Codewars](https://www.codewars.com/) will not be included.)
 
 # Classic Games (in Order of Release)
 
@@ -28,11 +30,9 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 * [Arena (1985)](https://corewar.co.uk/arena.htm)
 * [CROBOTS (1985)](https://corewar.co.uk/crobots.htm)
 * [P-Robots (1988)](https://corewar.co.uk/probots.htm)
-* [Xtank (1988)](http://www.xtank.org/) (project being modernized on GitHub;
-  much documentation apparently outdated)
+* [Xtank (1988)](http://www.xtank.org/) (project being modernized on GitHub; much documentation apparently outdated)
 * [Omega (1989)](https://corewar.co.uk/omega/index.htm)
-* [Jintori (1990)](https://corewar.co.uk/jintori.htm) (**documentation in
-  Japanese!**)
+* [Jintori (1990)](https://corewar.co.uk/jintori.htm) (**documentation in Japanese!**)
 * [RoboWar (1990)](https://web.stanford.edu/~pch/robowar/index.html)
     * [Modern implementation of the same](http://robowar.sourceforge.net/RoboWar5/)
     * [What scant documentation I could find](https://web.stanford.edu/~pch/robowar/)
@@ -46,6 +46,11 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 
 # Recent Games, Traditional Software
 
+## Tomorrow Corporation
+
+* [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
+* [7 Billion Humans](https://tomorrowcorporation.com/7billionhumans)
+
 ## Zachtronics
 
 * [SpaceChem](http://www.zachtronics.com/spacechem/)
@@ -56,9 +61,131 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 * [EXAPUNKS](http://www.zachtronics.com/exapunks/)
 * [MOLEK-SYNTEZ](http://www.zachtronics.com/molek-syntez/)
 
-<!-- GNU Robots -->
-<!-- Comb through unsorted bookmarks -->
-<!-- Carnage Heart -->
+## Others
+
+* [Autonauts](https://store.steampowered.com/app/979120/Autonauts/)
+* [Baba Is You](http://www.hempuli.com/baba/)
+* [COLOBOT](http://www.ceebot.com/colobot/index-e.php)
+* [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
+* [Duskers](http://duskers.misfits-attic.com/)
+* [Exploit Exercises](https://exploit-exercises.lains.space/)
+* [Google Gruyère](http://google-gruyere.appspot.com/)
+* [GNU Robots](https://www.gnu.org/software/gnurobots/)
+* [Gladiabots](https://gladiabots.com/)
+* [Logic World](https://logicworld.net/)
+* [LogicBots](https://store.steampowered.com/app/290020/LogicBots/)
+* [MHRD](https://store.steampowered.com/app/576030/MHRD/)
+* [Mechanica](https://store.steampowered.com/app/1226990/Mechanica/)
+* [Pony Island](https://www.pony-island.com/)
+* [Quadrilateral Cowboy](http://blendogames.com/qc/)
+* [Rec Room](https://recroom.com/rec-room/)
+* [Robocode](https://robocode.sourceforge.io/)
+* [Scalatron](http://scalatron.github.io/)
+* [Screeps](https://screeps.com/)
+* [Silicon Zeroes](http://pleasingfungus.com/Silicon%20Zeroes/)
+* [Swift Playgrounds](https://apps.apple.com/app/id1496833156)
+* [ToonTalk](http://www.toontalk.com/)
+* [else Heart.Break()](http://elseheartbreak.com/)
+* [git-game](https://github.com/git-game/git-game)
+* [git-game-v2](https://github.com/git-game/git-game-v2)
+* [trAInsported](http://trainsportedgame.no-ip.org/)
+* [while True: learn()](https://luden.io/wtl/)
+
+# Recent Games, Mobile
+
+* Gladiabots
+    * [Android](https://play.google.com/store/apps/details?id=com.GFX47.Gladiabots)
+    * [iOS](https://apps.apple.com/app/gladiabots/id1469623947)
+* Human Resource Machine
+    * [Android](https://play.google.com/store/apps/details?id=com.tomorrowcorporation.humanresourcemachine)
+    * [iOS](https://apps.apple.com/us/app/human-resource-machine/id1005098334)
+* LightBot
+    * [Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbot)
+    * [iOS](https://apps.apple.com/us/app/light-bot/id657638474)
+    * [Amazon](https://www.amazon.com/Lightbot-Inc-Programming-Puzzles/dp/B00LVDC27Y)
+* LightBot Jr
+    * [Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbotjr)
+    * [iOS](https://apps.apple.com/us/app/lightbot-jr-coding-puzzles-for-ages-4/id858640629)
+    * [Amazon](https://www.amazon.com/Lightbot-Jr-Coding-Puzzles-Ages/dp/B00LW65HN6)
+* [Make It True](https://play.google.com/store/apps/details?id=com.ViacheslavRud.Circuit) (Android only)
+* [Rec Room](https://apps.apple.com/us/app/rec-room/id1450306065) (iOS only)
+* RoboZZle
+    * [Android](https://play.google.com/store/apps/details?id=com.team242.robozzle)
+    * [iOS](https://apps.apple.com/us/app/robozzle/id350729261)
+* SpriteBot
+    * [Android](https://play.google.com/store/apps/details?id=com.spritebox.coding)
+    * [iOS](https://apps.apple.com/us/app/light-bot/id1270538471)
+* [Swift Playgrounds](https://apps.apple.com/app/id908519492) (iPad only)
+* [7 Billion Humans](https://apps.apple.com/us/app/7-billion-humans/id1393923918) (iOS only)
+
+# Recent Games, Browser- or Server-Based
+
+* [AI Cup](https://russianaicup.ru/)
+* [Advent of Code](https://adventofcode.com/)
+* [BOX-256](http://box-256.com/)
+* [Battlecode](https://www.battlecode.org/)
+* [Blockly](https://blockly.games/)
+* [CodeCraft](http://www.codecraftgame.org/)
+* [CSS Diner](http://flukeout.github.io/)
+* [CTF Learn](https://ctflearn.com/)
+* [CheckiO](https://checkio.org/)
+* [Code Games](http://codegames.io)
+* [Code Monkey](https://www.codemonkey.com/)
+* [Code.org](https://code.org/)
+* [CodeCombat](https://codecombat.com/)
+* [Codingame](https://www.codingame.com/)
+* [Elevator Saga](http://play.elevatorsaga.com/)
+* [Flexbox Defense](http://www.flexboxdefense.com/)
+* [Flexbox Froggy](http://flexboxfroggy.com/)
+* [HackThisSite](https://www.hackthissite.org/)
+* [Hacker 101 CTF](https://ctf.hacker101.com/)
+* [Halite](https://halite.io/)
+* [Hellbound Hackers](https://www.hellboundhackers.org/)
+* [JavaScript Fight Club](https://jsfight.club/)
+* [Komodo Consulting CTF](http://ctf.komodosec.com/)
+* [Leek Wars](https://leekwars.com/)
+* [LogicBox](https://logicbox.jahooma.com/)
+* [Microcorruption](https://microcorruption.com/)
+* [Much Assembly Required](https://muchassemblyrequired.com/)
+* [NandGame](http://nandgame.com/)
+* [Practice CTF List / Permanent CTF List](http://captf.com/practice-ctf/) (a
+  comprehensive list of CTF challenges specifically; have not examined every
+entry; see also this [Stack Exchange
+thread](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
+and this [Reddit
+thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs_and_wargames_to_practice/))
+* [RingZer0 Team Online CTF](https://ringzer0ctf.com/)
+* [RoboZZle](http://robozzle.com/)
+* [Ruby Warrior](https://www.bloc.io/ruby-warrior)
+* [Schemaverse](https://schemaverse.com/)
+* [Slush Smackdown](http://slushsmackdown.com/)
+* [Smash the Stack](http://smashthestack.org/)
+* [Tynker](https://www.tynker.com/)
+* [Untrusted](https://alexnisnevich.github.io/untrusted/)
+* [Vim Adventures](https://vim-adventures.com/) (n.b.: $25 for six months access to the full version)
+* [VulnHub](https://www.vulnhub.com)
+* [W3Challs](https://w3challs.com/)
+* [WarriorJS](https://warriorjs.com/)
+* [WeChall](http://www.wechall.net/) (not the same as the other, similar-sounding entry!)
+* [XSS Game](https://xss-game.appspot.com/)
+* [generals.io](http://generals.io/)
+* [hackable.ca](https://hackable.ca/)
+* [hacker.org](http://www.hacker.org/)
+* [io.netgarage.org](https://io.netgarage.org/)
+* [picoCTF](https://picoctf.com/)
+* [pwnable.kr](http://pwnable.kr)
+* [pwnable.tw](https://pwnable.tw/)
+
+# Recent Games, Console
+
+* [Baba Is You](https://www.nintendo.com/games/detail/baba-is-you-switch/) (Switch)
+* [Carnage Heart](https://en.wikipedia.org/wiki/Carnage_Heart) (PlayStation)
+* [Dreams](https://en.wikipedia.org/wiki/Dreams_(video_game)) (PlayStation 4)
+* [7 Billion Humans](https://www.nintendo.com/games/detail/7-billion-humans-switch/) (Switch)
+
 <!-- MindRover? -->
-<!-- Wikipedia category for programming games -->
-<!-- That new logic game coming out on Steam -->
+<!-- reversing.kr category TBD -->
+<!-- Riddles.io -->
+<!-- Empire of Code -->
+<!-- God Is A Cube -->
+<!-- Search through Google Play Store -->
