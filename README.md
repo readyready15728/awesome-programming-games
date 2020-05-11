@@ -154,6 +154,7 @@ entry; see also this [Stack Exchange
 thread](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
 and this [Reddit
 thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs_and_wargames_to_practice/))
+* [Regex Crossword](https://regexcrossword.com/)
 * [RingZer0 Team Online CTF](https://ringzer0ctf.com/)
 * [RoboZZle](http://robozzle.com/)
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior)
