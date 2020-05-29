@@ -205,7 +205,7 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 * [Baba Is You](https://www.nintendo.com/games/detail/baba-is-you-switch/) (Switch)
 * [Carnage Heart](https://en.wikipedia.org/wiki/Carnage_Heart) (PlayStation)
 * [Dreams](https://en.wikipedia.org/wiki/Dreams_(video_game)) (PlayStation 4)
-* [Exception]
+* Exception
     * [PlayStation 4](https://store.playstation.com/en-us/product/UP4469-CUSA12827_00-EXCEPTION0000001)
     * [Switch](https://www.nintendo.com/games/detail/exception-switch/)
     * [Xbox One](https://www.microsoft.com/en-us/p/exception/bssklhhh96ds)
