@@ -171,6 +171,7 @@ gamified but otherwise conventional coding challenges such as
 * [Microcorruption](https://microcorruption.com/)
 * [Much Assembly Required](https://muchassemblyrequired.com/)
 * [NandGame](http://nandgame.com/)
+* [OverTheWire](https://overthewire.org/wargames/)
 * [Practice CTF List / Permanent CTF List](http://captf.com/practice-ctf/) (a
   comprehensive list of CTF challenges specifically; have not examined every
 entry; see also this [Stack Exchange
