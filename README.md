@@ -63,36 +63,59 @@ gamified but otherwise conventional coding challenges such as
 
 ## Others
 
+* [Adventure Land](https://adventure.land/)
+* [Algo Bot](http://www.algo-bot.com/)
+* [Automachef](https://store.steampowered.com/app/984800/Automachef/)
 * [Autonauts](https://store.steampowered.com/app/979120/Autonauts/)
 * [Baba Is You](http://www.hempuli.com/baba/)
 * [COLOBOT](http://www.ceebot.com/colobot/index-e.php)
+* [Cyber Sentinel](https://store.steampowered.com/app/485970/Cyber_Sentinel/)
 * [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
+* [Debugger 3.16: Hack 'n' Run](http://www.spiderwork-games.com/debugger.htm)
 * [Duskers](http://duskers.misfits-attic.com/)
+* [Exception](https://exceptiongame.com/)
 * [Exploit Exercises](https://exploit-exercises.lains.space/)
 * [Google Gruyère](http://google-gruyere.appspot.com/)
 * [GNU Robots](https://www.gnu.org/software/gnurobots/)
 * [Gladiabots](https://gladiabots.com/)
+* [Glitchspace](https://spacebudgie.itch.io/glitchspace)
+* [Great Permutator](https://igf.com/great-permutator)
+* [Grey Hack](https://greyhackgame.com/)
+* [KnotBot](https://store.steampowered.com/app/1269830/KnotBot/)
 * [Logic World](https://logicworld.net/)
 * [LogicBots](https://store.steampowered.com/app/290020/LogicBots/)
-* [MHRD](https://store.steampowered.com/app/576030/MHRD/)
+* [Marvellous Inc.](https://marvellous.itch.io/marvellous-inc)
 * [Mechanica](https://store.steampowered.com/app/1226990/Mechanica/)
+* [MHRD](https://store.steampowered.com/app/576030/MHRD/)
+* [Neon Noodles](http://vividhelix.com/neonnoodles/)
+* [One Dreamer](https://www.one-dreamer.com/thegame/)
 * [Pony Island](https://www.pony-island.com/)
+* [Prelogate](https://store.steampowered.com/app/332830/Prelogate/)
+* [Prime Mover](https://store.steampowered.com/app/693700/Prime_Mover/)
 * [Quadrilateral Cowboy](http://blendogames.com/qc/)
 * [Rec Room](https://recroom.com/rec-room/)
+* [Robo Instructus](https://www.roboinstruct.us/)
 * [Robocode](https://robocode.sourceforge.io/)
+* [Rogue Bit](https://store.steampowered.com/app/949790/Rogue_Bit/)
 * [Scalatron](http://scalatron.github.io/)
 * [Screeps](https://screeps.com/)
+* [Selfless Heroes](https://store.steampowered.com/app/1273450/Selfless_Heroes/)
 * [Silicon Zeroes](http://pleasingfungus.com/Silicon%20Zeroes/)
+* [Super Markup Man](https://www.roppychop.com/pc/markup-man/)
 * [Swift Playgrounds](https://apps.apple.com/app/id1496833156)
 * [ToonTalk](http://www.toontalk.com/)
 * [else Heart.Break()](http://elseheartbreak.com/)
 * [git-game](https://github.com/git-game/git-game)
 * [git-game-v2](https://github.com/git-game/git-game-v2)
+* [[the Sequence]](https://store.steampowered.com/app/454320/the_Sequence/)
 * [trAInsported](http://trainsportedgame.no-ip.org/)
 * [while True: learn()](https://luden.io/wtl/)
 
 # Recent Games, Mobile
 
+* Cyber Sentinel
+    * [Android](https://play.google.com/store/apps/details?id=pl.mindhelix.cybersentinel)
+    * [iOS](https://apps.apple.com/us/app/cyber-sentinel/id1199120752)
 * Gladiabots
     * [Android](https://play.google.com/store/apps/details?id=com.GFX47.Gladiabots)
     * [iOS](https://apps.apple.com/app/gladiabots/id1469623947)
@@ -182,6 +205,10 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 * [Baba Is You](https://www.nintendo.com/games/detail/baba-is-you-switch/) (Switch)
 * [Carnage Heart](https://en.wikipedia.org/wiki/Carnage_Heart) (PlayStation)
 * [Dreams](https://en.wikipedia.org/wiki/Dreams_(video_game)) (PlayStation 4)
+* [Exception]
+    * [PlayStation 4](https://store.playstation.com/en-us/product/UP4469-CUSA12827_00-EXCEPTION0000001)
+    * [Switch](https://www.nintendo.com/games/detail/exception-switch/)
+    * [Xbox One](https://www.microsoft.com/en-us/p/exception/bssklhhh96ds)
 * [7 Billion Humans](https://www.nintendo.com/games/detail/7-billion-humans-switch/) (Switch)
 
 <!-- MindRover? -->
@@ -190,3 +217,4 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 <!-- Empire of Code -->
 <!-- God Is A Cube -->
 <!-- Search through Google Play Store -->
+<!-- Remaining Steam entries -->
