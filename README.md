@@ -167,6 +167,7 @@ gamified but otherwise conventional coding challenges such as
 * [Hellbound Hackers](https://www.hellboundhackers.org/)
 * [JavaScript Fight Club](https://jsfight.club/)
 * [Komodo Consulting CTF](http://ctf.komodosec.com/)
+* [KOHCTPYKTOP: Engineer of the People](http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/)
 * [Leek Wars](https://leekwars.com/)
 * [LogicBox](https://logicbox.jahooma.com/)
 * [Microcorruption](https://microcorruption.com/)
