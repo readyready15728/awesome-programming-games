@@ -101,6 +101,7 @@ gamified but otherwise conventional coding challenges such as
 * [Screeps](https://screeps.com/)
 * [Selfless Heroes](https://store.steampowered.com/app/1273450/Selfless_Heroes/)
 * [Silicon Zeroes](http://pleasingfungus.com/Silicon%20Zeroes/)
+* [Stormworks: Build and Rescue](http://mcro.org/stormworks)
 * [Super Markup Man](https://www.roppychop.com/pc/markup-man/)
 * [Swift Playgrounds](https://apps.apple.com/app/id1496833156)
 * [ToonTalk](http://www.toontalk.com/)
