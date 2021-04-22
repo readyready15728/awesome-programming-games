@@ -75,6 +75,7 @@ gamified but otherwise conventional coding challenges such as
 * [Duskers](http://duskers.misfits-attic.com/)
 * [Exception](https://exceptiongame.com/)
 * [Exploit Exercises](https://exploit-exercises.lains.space/)
+* [Factorio](https://www.factorio.com/)
 * [Google Gruyère](http://google-gruyere.appspot.com/)
 * [GNU Robots](https://www.gnu.org/software/gnurobots/)
 * [Gladiabots](https://gladiabots.com/)
