@@ -65,6 +65,7 @@ gamified but otherwise conventional coding challenges such as
 
 * [Adventure Land](https://adventure.land/)
 * [Algo Bot](http://www.algo-bot.com/)
+* [AntMe!](http://www.antme.net/)
 * [Automachef](https://store.steampowered.com/app/984800/Automachef/)
 * [Autonauts](https://store.steampowered.com/app/979120/Autonauts/)
 * [Baba Is You](http://www.hempuli.com/baba/)
@@ -80,6 +81,7 @@ gamified but otherwise conventional coding challenges such as
 * [GNU Robots](https://www.gnu.org/software/gnurobots/)
 * [Gladiabots](https://gladiabots.com/)
 * [Glitchspace](https://spacebudgie.itch.io/glitchspace)
+* [Graphomata](https://graphomata.com/)
 * [Great Permutator](https://igf.com/great-permutator)
 * [Grey Hack](https://greyhackgame.com/)
 * [KnotBot](https://store.steampowered.com/app/1269830/KnotBot/)
@@ -135,6 +137,7 @@ gamified but otherwise conventional coding challenges such as
     * [iOS](https://apps.apple.com/us/app/lightbot-jr-coding-puzzles-for-ages-4/id858640629)
     * [Amazon](https://www.amazon.com/Lightbot-Jr-Coding-Puzzles-Ages/dp/B00LW65HN6)
 * [Make It True](https://play.google.com/store/apps/details?id=com.ViacheslavRud.Circuit) (Android only)
+* [Perfect Paths](http://perfectpaths.hyperbolicmagnetism.com/) (iOS only)
 * [Rec Room](https://apps.apple.com/us/app/rec-room/id1450306065) (iOS only)
 * RoboZZle
     * [Android](https://play.google.com/store/apps/details?id=com.team242.robozzle)
@@ -226,3 +229,4 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 <!-- God Is A Cube -->
 <!-- Search through Google Play Store -->
 <!-- Remaining Steam entries -->
+<!-- More generally, searches for "Zachlike" and "programming", and the "progamming" tag on itch.io all bring up more games, most of which are actually programming games. Similar searches/tags on GOG and Steam also bring up more games. -->
