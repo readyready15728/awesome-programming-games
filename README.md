@@ -111,6 +111,7 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 * [[the Sequence]](https://store.steampowered.com/app/454320/the_Sequence/)
 * [trAInsported](http://trainsportedgame.no-ip.org/)
 * [while True: learn()](https://luden.io/wtl/)
+* [Comet 64](https://store.steampowered.com/app/1397290/Comet_64/)
 
 # Recent Games, Mobile
 
