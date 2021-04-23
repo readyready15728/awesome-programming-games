@@ -108,6 +108,7 @@ gamified but otherwise conventional coding challenges such as
 * [TwilioQuest](https://www.twilio.com/quest)
 * [else Heart.Break()](http://elseheartbreak.com/)
 * [git-game](https://github.com/git-game/git-game)
+* [oh-my-git](https://github.com/git-learning-game/oh-my-git) 
 * [git-game-v2](https://github.com/git-game/git-game-v2)
 * [[the Sequence]](https://store.steampowered.com/app/454320/the_Sequence/)
 * [trAInsported](http://trainsportedgame.no-ip.org/)
