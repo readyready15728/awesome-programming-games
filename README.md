@@ -7,9 +7,7 @@ or more reimplementations, or both. Examples such as
 [Struggle](https://pages.lip6.fr/Christian.Queinnec/WWW/Concurrency.html) are
 all well and good but are excluded by this criterion. Additionally there have
 to be at least some scraps of documentation. This would appear to exclude a
-game like ['bot](https://corewar.co.uk/bot.htm). One final restriction is that
-gamified but otherwise conventional coding challenges such as
-[Codewars](https://www.codewars.com/) will not be included.)
+game like ['bot](https://corewar.co.uk/bot.htm).)
 
 # Classic Games (in Order of Release)
 
