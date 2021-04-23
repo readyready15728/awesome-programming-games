@@ -68,6 +68,7 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 * [Autonauts](https://store.steampowered.com/app/979120/Autonauts/)
 * [Baba Is You](http://www.hempuli.com/baba/)
 * [COLOBOT](http://www.ceebot.com/colobot/index-e.php)
+* [Comet 64](https://store.steampowered.com/app/1397290/Comet_64/)
 * [Cyber Sentinel](https://store.steampowered.com/app/485970/Cyber_Sentinel/)
 * [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
 * [Debugger 3.16: Hack 'n' Run](http://www.spiderwork-games.com/debugger.htm)
@@ -111,7 +112,6 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 * [[the Sequence]](https://store.steampowered.com/app/454320/the_Sequence/)
 * [trAInsported](http://trainsportedgame.no-ip.org/)
 * [while True: learn()](https://luden.io/wtl/)
-* [Comet 64](https://store.steampowered.com/app/1397290/Comet_64/)
 
 # Recent Games, Mobile
 
