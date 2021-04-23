@@ -81,6 +81,7 @@ gamified but otherwise conventional coding challenges such as
 * [Glitchspace](https://spacebudgie.itch.io/glitchspace)
 * [Great Permutator](https://igf.com/great-permutator)
 * [Grey Hack](https://greyhackgame.com/)
+* [Hacknet](https://store.steampowered.com/app/365450/Hacknet/)
 * [KnotBot](https://store.steampowered.com/app/1269830/KnotBot/)
 * [Logic World](https://logicworld.net/)
 * [LogicBots](https://store.steampowered.com/app/290020/LogicBots/)
