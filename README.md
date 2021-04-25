@@ -44,12 +44,12 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 
 # Recent Games, Traditional Software
 
-## Tomorrow Corporation
+## Tomorrow Corporation (in Order of Release)
 
 * [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
 * [7 Billion Humans](https://tomorrowcorporation.com/7billionhumans)
 
-## Zachtronics
+## Zachtronics (in Order of Release)
 
 * [SpaceChem](http://www.zachtronics.com/spacechem/)
 * [Infinifactory](http://www.zachtronics.com/infinifactory/)
