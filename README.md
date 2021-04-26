@@ -44,12 +44,12 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 
 # Recent Games, Traditional Software
 
-## Tomorrow Corporation
+## Tomorrow Corporation (in Order of Release)
 
 * [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
 * [7 Billion Humans](https://tomorrowcorporation.com/7billionhumans)
 
-## Zachtronics
+## Zachtronics (in Order of Release)
 
 * [SpaceChem](http://www.zachtronics.com/spacechem/)
 * [Infinifactory](http://www.zachtronics.com/infinifactory/)
@@ -93,6 +93,7 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 * [Mechanica](https://store.steampowered.com/app/1226990/Mechanica/)
 * [MHRD](https://store.steampowered.com/app/576030/MHRD/)
 * [Neon Noodles](http://vividhelix.com/neonnoodles/)
+* [Oh My Git](https://ohmygit.org/)
 * [One Dreamer](https://www.one-dreamer.com/thegame/)
 * [Pony Island](https://www.pony-island.com/)
 * [Prelogate](https://store.steampowered.com/app/332830/Prelogate/)
