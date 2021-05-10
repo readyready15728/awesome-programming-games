@@ -154,6 +154,7 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 # Recent Games, Browser- or Server-Based
 
 * [AI Cup](https://russianaicup.ru/)
+* [Bitburner](https://danielyxie.github.io/bitburner/)
 * [BOX-256](http://box-256.com/)
 * [Battlecode](https://www.battlecode.org/)
 * [Blockly](https://blockly.games/)
