@@ -7,9 +7,7 @@ or more reimplementations, or both. Examples such as
 [Struggle](https://pages.lip6.fr/Christian.Queinnec/WWW/Concurrency.html) are
 all well and good but are excluded by this criterion. Additionally there have
 to be at least some scraps of documentation. This would appear to exclude a
-game like ['bot](https://corewar.co.uk/bot.htm). One final restriction is that
-gamified but otherwise conventional coding challenges such as
-[Codewars](https://www.codewars.com/) will not be included.)
+game like ['bot](https://corewar.co.uk/bot.htm).)
 
 # Classic Games (in Order of Release)
 
@@ -46,13 +44,15 @@ gamified but otherwise conventional coding challenges such as
 
 # Recent Games, Traditional Software
 
-## Tomorrow Corporation
+## Tomorrow Corporation (in Order of Release)
 
 * [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
 * [7 Billion Humans](https://tomorrowcorporation.com/7billionhumans)
 
-## Zachtronics
+## Zachtronics (in Order of Release)
 
+* [KOHCTPYKTOP: Engineer of the People](http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/)
+* [The Bureau of Steam Engineering](https://www.zachtronics.com/the-codex-of-alchemical-engineering/)
 * [SpaceChem](http://www.zachtronics.com/spacechem/)
 * [Infinifactory](http://www.zachtronics.com/infinifactory/)
 * [TIS-100](http://www.zachtronics.com/tis-100/)
@@ -65,10 +65,16 @@ gamified but otherwise conventional coding challenges such as
 
 * [Adventure Land](https://adventure.land/)
 * [Algo Bot](http://www.algo-bot.com/)
+* [AntMe!](http://www.antme.net/)
 * [Automachef](https://store.steampowered.com/app/984800/Automachef/)
 * [Autonauts](https://store.steampowered.com/app/979120/Autonauts/)
 * [Baba Is You](http://www.hempuli.com/baba/)
-* [COLOBOT](http://www.ceebot.com/colobot/index-e.php)
+* [Battlesnake](https://play.battlesnake.com)
+* [Bug Brain](http://www.biologic.com.au/bugbrain/)
+* [Code E.D.](https://jaywee1115.itch.io/code-ed)
+* [Colobot](http://www.ceebot.com/colobot/index-e.php)
+* [Colobot: Gold Edition](https://colobot.info/)
+* [Comet 64](https://store.steampowered.com/app/1397290/Comet_64/)
 * [Cyber Sentinel](https://store.steampowered.com/app/485970/Cyber_Sentinel/)
 * [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
 * [Debugger 3.16: Hack 'n' Run](http://www.spiderwork-games.com/debugger.htm)
@@ -79,21 +85,24 @@ gamified but otherwise conventional coding challenges such as
 * [GNU Robots](https://www.gnu.org/software/gnurobots/)
 * [Gladiabots](https://gladiabots.com/)
 * [Glitchspace](https://spacebudgie.itch.io/glitchspace)
+* [Graphomata](https://graphomata.com/)
 * [Great Permutator](https://igf.com/great-permutator)
 * [Grey Hack](https://greyhackgame.com/)
-* [Hacknet](https://store.steampowered.com/app/365450/Hacknet/)
+* [Hacknet](https://hacknet-os.com/)
+* [Hack 'n' Slash](https://www.doublefine.com/games/hack-n-slash)
 * [KnotBot](https://store.steampowered.com/app/1269830/KnotBot/)
 * [Logic World](https://logicworld.net/)
 * [LogicBots](https://store.steampowered.com/app/290020/LogicBots/)
+* [The Magic Circle](https://store.steampowered.com/app/323380/The_Magic_Circle/)
 * [Marvellous Inc.](https://marvellous.itch.io/marvellous-inc)
 * [Mechanica](https://store.steampowered.com/app/1226990/Mechanica/)
 * [MHRD](https://store.steampowered.com/app/576030/MHRD/)
 * [Neon Noodles](http://vividhelix.com/neonnoodles/)
+* [Oh My Git](https://ohmygit.org/)
 * [One Dreamer](https://www.one-dreamer.com/thegame/)
 * [Pony Island](https://www.pony-island.com/)
 * [Prelogate](https://store.steampowered.com/app/332830/Prelogate/)
 * [Prime Mover](https://store.steampowered.com/app/693700/Prime_Mover/)
-* [Quadrilateral Cowboy](http://blendogames.com/qc/)
 * [Rec Room](https://recroom.com/rec-room/)
 * [Robo Instructus](https://www.roboinstruct.us/)
 * [Robocode](https://robocode.sourceforge.io/)
@@ -107,7 +116,6 @@ gamified but otherwise conventional coding challenges such as
 * [Swift Playgrounds](https://apps.apple.com/app/id1496833156)
 * [ToonTalk](http://www.toontalk.com/)
 * [TwilioQuest](https://www.twilio.com/quest)
-* [else Heart.Break()](http://elseheartbreak.com/)
 * [git-game](https://github.com/git-game/git-game)
 * [git-game-v2](https://github.com/git-game/git-game-v2)
 * [[the Sequence]](https://store.steampowered.com/app/454320/the_Sequence/)
@@ -134,6 +142,7 @@ gamified but otherwise conventional coding challenges such as
     * [iOS](https://apps.apple.com/us/app/lightbot-jr-coding-puzzles-for-ages-4/id858640629)
     * [Amazon](https://www.amazon.com/Lightbot-Jr-Coding-Puzzles-Ages/dp/B00LW65HN6)
 * [Make It True](https://play.google.com/store/apps/details?id=com.ViacheslavRud.Circuit) (Android only)
+* [Perfect Paths](http://perfectpaths.hyperbolicmagnetism.com/) (iOS only)
 * [Rec Room](https://apps.apple.com/us/app/rec-room/id1450306065) (iOS only)
 * RoboZZle
     * [Android](https://play.google.com/store/apps/details?id=com.team242.robozzle)
@@ -147,11 +156,13 @@ gamified but otherwise conventional coding challenges such as
 # Recent Games, Browser- or Server-Based
 
 * [AI Cup](https://russianaicup.ru/)
-* [Advent of Code](https://adventofcode.com/)
+* [Bitburner](https://danielyxie.github.io/bitburner/)
 * [BOX-256](http://box-256.com/)
 * [Battlecode](https://www.battlecode.org/)
 * [Blockly](https://blockly.games/)
+* [Carnival](https://codepen.io/una/pen/NxZaNr)
 * [CodeCraft](http://www.codecraftgame.org/)
+* [Codingame](https://www.codingame.com/)
 * [CSS Diner](http://flukeout.github.io/)
 * [CTF Learn](https://ctflearn.com/)
 * [CheckiO](https://checkio.org/)
@@ -160,18 +171,24 @@ gamified but otherwise conventional coding challenges such as
 * [Code.org](https://code.org/)
 * [CodeCombat](https://codecombat.com/)
 * [Codingame](https://www.codingame.com/)
+* [corewars8086_js](https://shooshx.github.io/corewars8086_js/)
+* [Cube Composer](https://david-peter.de/cube-composer/)
 * [Elevator Saga](http://play.elevatorsaga.com/)
 * [Flexbox Defense](http://www.flexboxdefense.com/)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
+* [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+* [Grid Critters](https://gridcritters.com/)
+* [Grid Garden](https://cssgridgarden.com/)
+* [Hack The Box](https://www.hackthebox.eu/)
 * [HackThisSite](https://www.hackthissite.org/)
 * [Hacker 101 CTF](https://ctf.hacker101.com/)
 * [Halite](https://halite.io/)
 * [Hellbound Hackers](https://www.hellboundhackers.org/)
 * [JavaScript Fight Club](https://jsfight.club/)
 * [Komodo Consulting CTF](http://ctf.komodosec.com/)
-* [KOHCTPYKTOP: Engineer of the People](http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/)
 * [Leek Wars](https://leekwars.com/)
 * [LogicBox](https://logicbox.jahooma.com/)
+* [Manufactoria](http://pleasingfungus.com/Manufactoria/)
 * [Microcorruption](https://microcorruption.com/)
 * [Much Assembly Required](https://muchassemblyrequired.com/)
 * [NandGame](http://nandgame.com/)
@@ -184,11 +201,14 @@ and this [Reddit
 thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs_and_wargames_to_practice/))
 * [Regex Crossword](https://regexcrossword.com/)
 * [RingZer0 Team Online CTF](https://ringzer0ctf.com/)
+* [Roadmap](http://victordarras.fr/cssgame)
 * [RoboZZle](http://robozzle.com/)
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior)
 * [Schemaverse](https://schemaverse.com/)
+* [Service Workies](https://serviceworkies.com/)
 * [Slush Smackdown](http://slushsmackdown.com/)
 * [Smash the Stack](http://smashthestack.org/)
+* [Tic-Tac-Toe](https://codepen.io/alvaromontoro/pen/BexWOw)
 * [Tynker](https://www.tynker.com/)
 * [Untrusted](https://alexnisnevich.github.io/untrusted/)
 * [Vim Adventures](https://vim-adventures.com/) (n.b.: $25 for six months access to the full version)
@@ -223,3 +243,4 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 <!-- God Is A Cube -->
 <!-- Search through Google Play Store -->
 <!-- Remaining Steam entries -->
+<!-- More generally, searches for "Zachlike" and "programming", and the "progamming" tag on itch.io all bring up more games, most of which are actually programming games. Similar searches/tags on GOG and Steam also bring up more games. -->
