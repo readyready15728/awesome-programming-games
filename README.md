@@ -230,6 +230,7 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 * [picoCTF](https://picoctf.com/)
 * [pwnable.kr](http://pwnable.kr)
 * [pwnable.tw](https://pwnable.tw/)
+* [yare.io](https://yare.io/)
 
 # Recent Games, Console
 
