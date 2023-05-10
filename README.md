@@ -214,6 +214,7 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 * [Service Workies](https://serviceworkies.com/)
 * [Slush Smackdown](http://slushsmackdown.com/)
 * [Smash the Stack](http://smashthestack.org/)
+* [SpaceTraders API](https://spacetraders.io/) (RESTful API MMO Space Trading game)
 * [Tic-Tac-Toe](https://codepen.io/alvaromontoro/pen/BexWOw)
 * [Tynker](https://www.tynker.com/)
 * [Untrusted](https://alexnisnevich.github.io/untrusted/)
