@@ -235,6 +235,7 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 * [Tynker](https://www.tynker.com/)
 * [Untrusted](https://alexnisnevich.github.io/untrusted/)
 * [Vim Adventures](https://vim-adventures.com/) (n.b.: $25 for six months access to the full version)
+* [Vindinium](https://github.com/ornicar/vindinium)
 * [VulnHub](https://www.vulnhub.com)
 * [W3Challs](https://w3challs.com/)
 * [WarriorJS](https://warriorjs.com/)
