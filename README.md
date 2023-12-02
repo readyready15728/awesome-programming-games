@@ -110,6 +110,7 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 * [Mechanica](https://store.steampowered.com/app/1226990/Mechanica/)
 * [MHRD](https://store.steampowered.com/app/576030/MHRD/)
 * [Midnight Protocol](https://www.midnightprotocol.net/)
+* [MindRover](https://en.wikipedia.org/wiki/MindRover)
 * [Move Code Lines](https://store.steampowered.com/app/1300310/Move_Code_Lines/)
 * [Neon Noodles](http://vividhelix.com/neonnoodles/)
 * [Oh My Git](https://ohmygit.org/)
@@ -259,7 +260,6 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
     * [Xbox One](https://www.microsoft.com/en-us/p/exception/bssklhhh96ds)
 * [7 Billion Humans](https://www.nintendo.com/games/detail/7-billion-humans-switch/) (Switch)
 
-<!-- MindRover? -->
 <!-- reversing.kr category TBD -->
 <!-- Riddles.io -->
 <!-- Empire of Code -->
