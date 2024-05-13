@@ -234,6 +234,7 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 * [Regex Crossword](https://regexcrossword.com/)
 * [RingZer0 Team Online CTF](https://ringzer0ctf.com/)
 * [Roadmap](http://victordarras.fr/cssgame)
+* [Robot Rumble](https://robotrumble.org/)
 * [RoboZZle](http://robozzle.com/)
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior)
 * [Schemaverse](https://schemaverse.com/)
