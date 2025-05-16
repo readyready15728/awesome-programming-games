@@ -1,4 +1,5 @@
 # Awesome Programming Games
+
 ## An ultra mega giga curated list of programming games
 
 (N.b.: only *readily playable* games will be included here. This means that
@@ -13,12 +14,12 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 
 * [Darwin (1961)](https://corewar.co.uk/darwin.htm)
 * [RobotWar (1970s)](https://corewar.co.uk/robotwar.htm)
-    * [Original Apple II Binary](https://www.myabandonware.com/game/robot-war-9)
-    * [Modern Clojure Reimplementation](https://github.com/richardharrington/robotwar)
+  * [Original Apple II Binary](https://www.myabandonware.com/game/robot-war-9)
+  * [Modern Clojure Reimplementation](https://github.com/richardharrington/robotwar)
 * [Color Robot Battle (1981)](https://corewar.co.uk/colorrobotbattle.htm)
-    * [Original TRS-80 Binary Can Be Found Here](https://colorcomputerarchive.com/repo/Disks/Games/)
+  * [Original TRS-80 Binary Can Be Found Here](https://colorcomputerarchive.com/repo/Disks/Games/)
 * [Rocky's Boots (1982)](http://www.warrenrobinett.com/rockysboots/)
-    * [Manual](https://www.digitalgamemuseum.org/wp-content/uploads/2014/05/Rockys-Boots-Manual.pdf)
+  * [Manual](https://www.digitalgamemuseum.org/wp-content/uploads/2014/05/Rockys-Boots-Manual.pdf)
 * [Robot (1983)](https://corewar.co.uk/robot.htm) (n.b.: Sol-20 binaries are
   written in text for the [emulator](https://www.sol20.org/solace.html) so
   discovering text files is to be expected)
@@ -32,8 +33,8 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 * [Omega (1989)](https://corewar.co.uk/omega/index.htm)
 * [Jintori (1990)](https://corewar.co.uk/jintori.htm) (**documentation in Japanese!**)
 * [RoboWar (1990)](https://web.stanford.edu/~pch/robowar/index.html)
-    * [Modern implementation of the same](http://robowar.sourceforge.net/RoboWar5/)
-    * [What scant documentation I could find](https://web.stanford.edu/~pch/robowar/)
+  * [Modern implementation of the same](http://robowar.sourceforge.net/RoboWar5/)
+  * [What scant documentation I could find](https://web.stanford.edu/~pch/robowar/)
 * [Battle Droids (1991)](https://corewar.co.uk/battledroids.htm)
 * [ARobots (1992)](https://corewar.co.uk/arobots.htm)
 * [AT-Robots (1992)](http://necrobones.com/atrobots/)
@@ -154,31 +155,31 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 # Recent Games, Mobile
 
 * Cyber Sentinel
-    * [Android](https://play.google.com/store/apps/details?id=pl.mindhelix.cybersentinel)
-    * [iOS](https://apps.apple.com/us/app/cyber-sentinel/id1199120752)
+  * [Android](https://play.google.com/store/apps/details?id=pl.mindhelix.cybersentinel)
+  * [iOS](https://apps.apple.com/us/app/cyber-sentinel/id1199120752)
 * Gladiabots
-    * [Android](https://play.google.com/store/apps/details?id=com.GFX47.Gladiabots)
-    * [iOS](https://apps.apple.com/app/gladiabots/id1469623947)
+  * [Android](https://play.google.com/store/apps/details?id=com.GFX47.Gladiabots)
+  * [iOS](https://apps.apple.com/app/gladiabots/id1469623947)
 * Human Resource Machine
-    * [Android](https://play.google.com/store/apps/details?id=com.tomorrowcorporation.humanresourcemachine)
-    * [iOS](https://apps.apple.com/us/app/human-resource-machine/id1005098334)
+  * [Android](https://play.google.com/store/apps/details?id=com.tomorrowcorporation.humanresourcemachine)
+  * [iOS](https://apps.apple.com/us/app/human-resource-machine/id1005098334)
 * LightBot
-    * [Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbot)
-    * [iOS](https://apps.apple.com/us/app/light-bot/id657638474)
-    * [Amazon](https://www.amazon.com/Lightbot-Inc-Programming-Puzzles/dp/B00LVDC27Y)
+  * [Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbot)
+  * [iOS](https://apps.apple.com/us/app/light-bot/id657638474)
+  * [Amazon](https://www.amazon.com/Lightbot-Inc-Programming-Puzzles/dp/B00LVDC27Y)
 * LightBot Jr
-    * [Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbotjr)
-    * [iOS](https://apps.apple.com/us/app/lightbot-jr-coding-puzzles-for-ages-4/id858640629)
-    * [Amazon](https://www.amazon.com/Lightbot-Jr-Coding-Puzzles-Ages/dp/B00LW65HN6)
+  * [Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbotjr)
+  * [iOS](https://apps.apple.com/us/app/lightbot-jr-coding-puzzles-for-ages-4/id858640629)
+  * [Amazon](https://www.amazon.com/Lightbot-Jr-Coding-Puzzles-Ages/dp/B00LW65HN6)
 * [Make It True](https://play.google.com/store/apps/details?id=com.ViacheslavRud.Circuit) (Android only)
 * [Perfect Paths](http://perfectpaths.hyperbolicmagnetism.com/) (iOS only)
 * [Rec Room](https://apps.apple.com/us/app/rec-room/id1450306065) (iOS only)
 * RoboZZle
-    * [Android](https://play.google.com/store/apps/details?id=com.team242.robozzle)
-    * [iOS](https://apps.apple.com/us/app/robozzle/id350729261)
+  * [Android](https://play.google.com/store/apps/details?id=com.team242.robozzle)
+  * [iOS](https://apps.apple.com/us/app/robozzle/id350729261)
 * SpriteBot
-    * [Android](https://play.google.com/store/apps/details?id=com.spritebox.coding)
-    * [iOS](https://apps.apple.com/us/app/light-bot/id1270538471)
+  * [Android](https://play.google.com/store/apps/details?id=com.spritebox.coding)
+  * [iOS](https://apps.apple.com/us/app/light-bot/id1270538471)
 * [Swift Playgrounds](https://apps.apple.com/app/id908519492) (iPad only)
 * [7 Billion Humans](https://apps.apple.com/us/app/7-billion-humans/id1393923918) (iOS only)
 
@@ -264,9 +265,9 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 * [Carnage Heart](https://en.wikipedia.org/wiki/Carnage_Heart) (PlayStation)
 * [Dreams](https://en.wikipedia.org/wiki/Dreams_(video_game)) (PlayStation 4)
 * Exception
-    * [PlayStation 4](https://store.playstation.com/en-us/product/UP4469-CUSA12827_00-EXCEPTION0000001)
-    * [Switch](https://www.nintendo.com/games/detail/exception-switch/)
-    * [Xbox One](https://www.microsoft.com/en-us/p/exception/bssklhhh96ds)
+  * [PlayStation 4](https://store.playstation.com/en-us/product/UP4469-CUSA12827_00-EXCEPTION0000001)
+  * [Switch](https://www.nintendo.com/games/detail/exception-switch/)
+  * [Xbox One](https://www.microsoft.com/en-us/p/exception/bssklhhh96ds)
 * [7 Billion Humans](https://www.nintendo.com/games/detail/7-billion-humans-switch/) (Switch)
 
 <!-- reversing.kr category TBD -->
