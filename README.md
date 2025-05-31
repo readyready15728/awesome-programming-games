@@ -245,6 +245,7 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior)
 * [Schemaverse](https://schemaverse.com/)
 * [Service Workies](https://serviceworkies.com/)
+* [ShortcutFoo](https://www.shortcutfoo.com/)
 * [Slush Smackdown](http://slushsmackdown.com/)
 * [Smash the Stack](http://smashthestack.org/)
 * [SpaceTraders API](https://spacetraders.io/) (RESTful API MMO Space Trading game)
