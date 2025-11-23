@@ -188,6 +188,7 @@ game like ['bot](https://corewar.co.uk/bot.htm).)
 # Recent Games, Browser- or Server-Based
 
 * [AI Cup](https://russianaicup.ru/)
+* [Artifacts MMO](https://artifactsmmo.com/)
 * [Bitburner](https://danielyxie.github.io/bitburner/)
 * [BOX-256](http://box-256.com/)
 * [Battlecode](https://www.battlecode.org/)
@@ -236,6 +237,7 @@ entry; see also this [Stack Exchange
 thread](https://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist)
 and this [Reddit
 thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs_and_wargames_to_practice/))
+* [Programming Game](https://programming-game.com/)
 * [pwnable.kr](http://pwnable.kr)
 * [pwnable.tw](https://pwnable.tw/)
 * [Regex Crossword](https://regexcrossword.com/)
