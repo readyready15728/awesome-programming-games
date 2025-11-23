@@ -19,17 +19,14 @@ this criterion and will eventually be moved to a separate
 
 ## Classic Games (in Order of Release)
 
-* [Darwin (1961)](https://corewar.co.uk/darwin.htm)
-* [RobotWar (1970s)](https://corewar.co.uk/robotwar.htm)
-  * [Original Apple II Binary](https://www.myabandonware.com/game/robot-war-9)
-  * [Modern Clojure Reimplementation](https://github.com/richardharrington/robotwar)
-* [Color Robot Battle (1981)](https://corewar.co.uk/colorrobotbattle.htm)
-  * [Original TRS-80 Binary Can Be Found Here](https://colorcomputerarchive.com/repo/Disks/Games/)
-* [Rocky's Boots (1982)](http://www.warrenrobinett.com/rockysboots/)
-  * [Manual](https://www.digitalgamemuseum.org/wp-content/uploads/2014/05/Rockys-Boots-Manual.pdf)
-* [Robot (1983)](https://corewar.co.uk/robot.htm) (n.b.: Sol-20 binaries are
-  written in text for the [emulator](https://www.sol20.org/solace.html) so
-  discovering text files is to be expected)
+| Title | Description and Notes |
+|---|---|
+| [*Darwin* (1961)](https://corewar.co.uk/darwin.htm) | A historically significant game and experiment in artificial life first implemented on an IBM 7090 at Bell Labs. The goal is to be the most prolific replicator and wipe out all your foes! |
+| [*RobotWar* (1970s)](https://corewar.co.uk/robotwar.htm) | A programming game originally written for the legendary PLATO system. (For more information on PLATO, consider picking up [*The Friendly Orange Glow*](http://friendlyorangeglow.com/) by Brian Dear.) The original object of the game was to use a register-based language apparently inspired by assembly and BASIC to control the movement, radar and gun of a battle robot and be the last standing out of two. A later Apple II release available on the linked website expanded the number of contestants to as many as five. There is even a [Clojure reimplementation](https://github.com/richardharrington/robotwar), though it seems incomplete. |
+| [*Color Robot Battle* (1981)](https://corewar.co.uk/colorrobotbattle.htm) | A game with a similar premise as *RobotWar*, though competing robots are now armed with missiles as well as a laser gun. In addition, the language created for this game appears to be partially inspired by Logo. The retrocomputing site [Color Computer Archive](https://colorcomputerarchive.com/) hosts the [original TRS-80 binary](https://colorcomputerarchive.com/repo/Disks/Games/Color%20Robot%20Battle%20(Tandy).zip) as well as a [PDF of the original manual](https://colorcomputerarchive.com/repo/Documents/Manuals/Games/Color%20Robot%20Battle%20(Tandy).pdf). |
+| [*Rocky's Boots* (1982)](http://www.warrenrobinett.com/rockysboots/) | An educational logic puzzle game that teaches the fundamentals of digital logic circuits for ages 9 and up, which received wide acclaim. The Internet Archive has the [manual](https://archive.org/details/A2_Rockys_Boots_manual/mode/2up) corresponding to the Apple II binary found at the title link. |
+| [*Robot* (1983)](https://corewar.co.uk/robot.htm) | Another *RobotWar* derivative with a language inspired by assembly and BASIC written for the somewhat obscure early home computer known as the [Sol-20](https://www.sol20.org/). *Robot* innovates on the existing formula with the addition of shields and cloaking devices to protect the fighting robots and the addition of land mines, electric fences and blockades on the battleground. The title link has binaries written in a text format with the extension of `.ent`, which are to be used with the emulator, called [Solace](https://www.sol20.org/solace.html). |
+
 * [Core War (1984)](https://corewar.co.uk/)
 * [Robot Odyssey](https://en.wikipedia.org/wiki/Robot_Odyssey) (article
   includes links to usable implementations and manual)
