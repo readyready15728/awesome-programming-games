@@ -17,7 +17,7 @@ game." Currently, a number of entries included in the `README.md` do not fit
 this criterion and will eventually be moved to a separate
 `awesome-coding-challenges` `README.md`.
 
-# Classic Games (in Order of Release)
+## Classic Games (in Order of Release)
 
 * [Darwin (1961)](https://corewar.co.uk/darwin.htm)
 * [RobotWar (1970s)](https://corewar.co.uk/robotwar.htm)
@@ -50,14 +50,14 @@ this criterion and will eventually be moved to a separate
 * [TclRobots (1994)](https://github.com/jonasferry/TclRobots)
 * [TORCS (1997)](http://torcs.sourceforge.net/)
 
-# Recent Games, Traditional Software
+## Recent Games, Traditional Software
 
-## Tomorrow Corporation (in Order of Release)
+### Tomorrow Corporation (in Order of Release)
 
 * [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
 * [7 Billion Humans](https://tomorrowcorporation.com/7billionhumans)
 
-## Zachtronics (in Order of Release)
+### Zachtronics (in Order of Release)
 
 * [KOHCTPYKTOP: Engineer of the People](http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/)
 * [The Bureau of Steam Engineering](https://www.zachtronics.com/the-codex-of-alchemical-engineering/)
@@ -69,7 +69,7 @@ this criterion and will eventually be moved to a separate
 * [EXAPUNKS](http://www.zachtronics.com/exapunks/)
 * [MOLEK-SYNTEZ](http://www.zachtronics.com/molek-syntez/)
 
-## Others
+### Others
 
 * [Adventure Land](https://adventure.land/)
 * [Algo Bot](http://www.algo-bot.com/)
@@ -161,7 +161,7 @@ this criterion and will eventually be moved to a separate
 * [Uplink](https://store.steampowered.com/app/1510/Uplink/)
 * [while True: learn()](https://luden.io/wtl/)
 
-# Recent Games, Mobile
+## Recent Games, Mobile
 
 * Cyber Sentinel
   * [Android](https://play.google.com/store/apps/details?id=pl.mindhelix.cybersentinel)
@@ -192,7 +192,7 @@ this criterion and will eventually be moved to a separate
 * [Swift Playgrounds](https://apps.apple.com/app/id908519492) (iPad only)
 * [7 Billion Humans](https://apps.apple.com/us/app/7-billion-humans/id1393923918) (iOS only)
 
-# Recent Games, Browser- or Server-Based
+## Recent Games, Browser- or Server-Based
 
 * [AI Cup](https://russianaicup.ru/)
 * [Artifacts MMO](https://artifactsmmo.com/) - Artifacts is a Sandbox MMORPG where you can use any programming language to control your characters with our API.
@@ -269,7 +269,7 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 * [WeChall](http://www.wechall.net/) (not the same as the other, similar-sounding entry!)
 * [XSS Game](https://xss-game.appspot.com/)
 
-# Recent Games, Console
+## Recent Games, Console
 
 * [Baba Is You](https://www.nintendo.com/games/detail/baba-is-you-switch/) (Switch)
 * [Carnage Heart](https://en.wikipedia.org/wiki/Carnage_Heart) (PlayStation)
