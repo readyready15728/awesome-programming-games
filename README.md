@@ -240,14 +240,12 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 * [pwnable.tw](https://pwnable.tw/)
 * [Regex Crossword](https://regexcrossword.com/)
 * [RingZer0 Team Online CTF](https://ringzer0ctf.com/)
-* [Roadmap](http://victordarras.fr/cssgame)
 * [Robot Rumble](https://robotrumble.org/)
 * [RoboZZle](http://robozzle.com/)
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior)
 * [Schemaverse](https://schemaverse.com/)
 * [Service Workies](https://serviceworkies.com/)
 * [ShortcutFoo](https://www.shortcutfoo.com/)
-* [Slush Smackdown](http://slushsmackdown.com/)
 * [Smash the Stack](http://smashthestack.org/)
 * [SpaceTraders API](https://spacetraders.io/) (RESTful API MMO Space Trading game)
 * [Tic-Tac-Toe](https://codepen.io/alvaromontoro/pen/BexWOw)
@@ -256,12 +254,9 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 * [Vim Adventures](https://vim-adventures.com/) (n.b.: $25 for six months access to the full version)
 * [VimGolf](https://www.vimgolf.com/)
 * [Vindinium](https://github.com/ornicar/vindinium)
-* [VulnHub](https://www.vulnhub.com)
 * [W3Challs](https://w3challs.com/)
 * [WarriorJS](https://warriorjs.com/)
-* [WeChall](http://www.wechall.net/) (not the same as the other, similar-sounding entry!)
 * [XSS Game](https://xss-game.appspot.com/)
-* [yare.io](https://yare.io/)
 
 # Recent Games, Console
 
