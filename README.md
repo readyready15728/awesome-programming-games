@@ -26,13 +26,12 @@ this criterion and will eventually be moved to a separate
 | [*Color Robot Battle* (1981)](https://corewar.co.uk/colorrobotbattle.htm) | A game with a similar premise as *RobotWar*, though competing robots are now armed with missiles as well as a laser gun. In addition, the language created for this game appears to be partially inspired by Logo. The retrocomputing site [Color Computer Archive](https://colorcomputerarchive.com/) hosts the [original TRS-80 binary](https://colorcomputerarchive.com/repo/Disks/Games/Color%20Robot%20Battle%20(Tandy).zip) as well as a [PDF of the original manual](https://colorcomputerarchive.com/repo/Documents/Manuals/Games/Color%20Robot%20Battle%20(Tandy).pdf). |
 | [*Rocky's Boots* (1982)](http://www.warrenrobinett.com/rockysboots/) | An educational logic puzzle game that teaches the fundamentals of digital logic circuits for ages 9 and up, which received wide acclaim. The Internet Archive has the [manual](https://archive.org/details/A2_Rockys_Boots_manual/mode/2up) corresponding to the Apple II binary found at the title link. |
 | [*Robot* (1983)](https://corewar.co.uk/robot.htm) | Another *RobotWar* derivative with a language inspired by assembly and BASIC written for the somewhat obscure early home computer known as the [Sol-20](https://www.sol20.org/). *Robot* innovates on the existing formula with the addition of shields and cloaking devices to protect the fighting robots and the addition of land mines, electric fences and blockades on the battleground. The title link has binaries written in a text format with the extension of `.ent`, which are to be used with the emulator, called [Solace](https://www.sol20.org/solace.html). |
+| [*Core War* (1984)](https://corewar.co.uk/) | Another game in the vein of *Darwin*, which is a bit more refined as I understand it. The website hosts a number of resources on Core War, including executables and documentation, along with a [1998 Usenet post from `rec.games.corewar`](https://corewar.co.uk/darwin/kline73.txt) that draws more concrete comparisons between the two aforementioned games than what I can provide here. |
+| [*Robot Odyssey* (1984)](https://en.wikipedia.org/wiki/Robot_Odyssey) | The sequel to *Rocky's Boots* and even more challenging! |
+| [*Arena* (1985)](https://corewar.co.uk/arena.htm) | Another one where robots duke it out on a shared battleground. The language appears to be a fairly pure assembly language without too many other influences. |
+| [*Crobots* (1985)](https://corewar.co.uk/crobots.htm) | The "C" is pronounced like in "C programming language", because this variant of the battling robot formula uses a subset of C as opposed to an assembly variant. In addition to the title link there is also a dedicated [*Crobots* website](https://crobots.deepthought.it/home.php). It includes a somewhat buried [HTML-formatted manual](https://crobots.deepthought.it/html/manual.html). |
+| [*P-Robots* (1988)](https://corewar.co.uk/probots.htm) | Inspired by _Crobots_ but players use Pascal to program contestants. Includes various embellishments on the basic formula, including the option of teams instead of a battle royale. |
 
-* [Core War (1984)](https://corewar.co.uk/)
-* [Robot Odyssey](https://en.wikipedia.org/wiki/Robot_Odyssey) (article
-  includes links to usable implementations and manual)
-* [Arena (1985)](https://corewar.co.uk/arena.htm)
-* [CROBOTS (1985)](https://corewar.co.uk/crobots.htm)
-* [P-Robots (1988)](https://corewar.co.uk/probots.htm)
 * [Xtank (1988)](http://www.xtank.org/) (project being modernized on GitHub; much documentation apparently outdated)
 * [Omega (1989)](https://corewar.co.uk/omega/index.htm)
 * [Jintori (1990)](https://corewar.co.uk/jintori.htm) (**documentation in Japanese!**)
