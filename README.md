@@ -30,7 +30,7 @@ this criterion and will eventually be moved to a separate
 | [*Robot Odyssey* (1984)](https://en.wikipedia.org/wiki/Robot_Odyssey) | The sequel to *Rocky's Boots* and even more challenging! |
 | [*Arena* (1985)](https://corewar.co.uk/arena.htm) | Another one where robots duke it out on a shared battleground. The language appears to be a fairly pure assembly language without too many other influences. |
 | [*Crobots* (1985)](https://corewar.co.uk/crobots.htm) | The "C" is pronounced like in "C programming language", because this variant of the battling robot formula uses a subset of C as opposed to an assembly variant. In addition to the title link there is also a dedicated [*Crobots* website](https://crobots.deepthought.it/home.php). It includes a somewhat buried [HTML-formatted manual](https://crobots.deepthought.it/html/manual.html). |
-| [*P-Robots* (1988)](https://corewar.co.uk/probots.htm) | Inspired by _Crobots_ but players use Pascal to program contestants. Includes various embellishments on the basic formula, including the option of teams instead of a battle royale. |
+| [*P-Robots* (1988)](https://corewar.co.uk/probots.htm) | Inspired by *Crobots* but players use Pascal to program contestants. Includes various embellishments on the basic formula, including the option of teams instead of a battle royale. |
 
 * [Xtank (1988)](http://www.xtank.org/) (project being modernized on GitHub; much documentation apparently outdated)
 * [Omega (1989)](https://corewar.co.uk/omega/index.htm)
