@@ -33,9 +33,6 @@ this criterion and will eventually be moved to a separate
 | [*P-Robots* (1988)](https://corewar.co.uk/probots.htm) | Inspired by *Crobots* but players use Pascal to program contestants. Includes various embellishments on the basic formula, including the option of teams instead of a battle royale. |
 * [Omega (1989)](https://corewar.co.uk/omega/index.htm)
 * [Jintori (1990)](https://corewar.co.uk/jintori.htm) (**documentation in Japanese!**)
-* [RoboWar (1990)](https://web.stanford.edu/~pch/robowar/index.html)
-  * [Modern implementation of the same](http://robowar.sourceforge.net/RoboWar5/)
-  * [What scant documentation I could find](https://web.stanford.edu/~pch/robowar/)
 * [Battle Droids (1991)](https://corewar.co.uk/battledroids.htm)
 * [ARobots (1992)](https://corewar.co.uk/arobots.htm)
 * [AT-Robots (1992)](http://necrobones.com/atrobots/)
