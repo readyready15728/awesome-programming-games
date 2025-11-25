@@ -31,11 +31,12 @@ this criterion and will eventually be moved to a separate
 | [*Arena* (1985)](https://corewar.co.uk/arena.htm) | Another one where robots duke it out on a shared battleground. The language appears to be a fairly pure assembly language without too many other influences. |
 | [*Crobots* (1985)](https://corewar.co.uk/crobots.htm) | The "C" is pronounced like in "C programming language", because this variant of the battling robot formula uses a subset of C as opposed to an assembly variant. In addition to the title link there is also a dedicated [*Crobots* website](https://crobots.deepthought.it/home.php). It includes a somewhat buried [HTML-formatted manual](https://crobots.deepthought.it/html/manual.html). |
 | [*P-Robots* (1988)](https://corewar.co.uk/probots.htm) | Inspired by *Crobots* but players use Pascal to program contestants. Includes various embellishments on the basic formula, including the option of teams instead of a battle royale. |
-* [Omega (1989)](https://corewar.co.uk/omega/index.htm)
-* [Jintori (1990)](https://corewar.co.uk/jintori.htm) (**documentation in Japanese!**)
-* [Battle Droids (1991)](https://corewar.co.uk/battledroids.htm)
-* [ARobots (1992)](https://corewar.co.uk/arobots.htm)
-* [AT-Robots (1992)](http://necrobones.com/atrobots/)
+| [*Omega* (1989)](https://corewar.co.uk/omega/) | Automated tank battler with a campaign that requires the player to overcome increasingly difficult challenges (while being allowed increased budgets at each stage) until they unlock the titular "omega" unlimited budget for tank design. As in several previous titles, team tactics are possible. The tank language was subject to intense quality testing during development and is a BASIC variant, easing the difficult task of programming the tanks. The website includes dozens of tank designs. |
+| [*Jintori* (1990)](https://corewar.co.uk/jintori.htm) | "*Jintori* is played on a 180×180 grid by programs written in an assembly-like programming language. The aim of the game is to surround as much territory as possible." It appears to be loosely inspired by the game of Go but I can't tell you more because the documentation is in Japanese. |
+| [*Battle Droids* (1991)](https://corewar.co.uk/battledroids.htm) | Another, perhaps lesser-known tank battler using BASIC. The documentation seems quite excellent. |
+| [*ARobots* (1992)](https://corewar.co.uk/arobots.htm) | Tank battle royale using 8086 assembly. Documentation is fairly scant but several pre-built robots are available. The available primitives include a random number generator, reminding me of how science fiction author Fred Saberhagen's fictional killing machines known as "[Berserkers](https://tvtropes.org/pmwiki/pmwiki.php/Literature/Berserker)" use random numbers based on radioactive decay to make their behavior unpredictable. |
+| [*AT-Robots* (1992)](http://necrobones.com/atrobots/) | Tank battler using assembly-like with languages with a few interesting nuances in addition to the standard milieu, such as the need to manage heat. Website includes the results of past tournaments and the source code of robot tanks entered into said tournaments. |
+
 * [Combat Zone (1993)](https://corewar.co.uk/combatzone.htm)
 * [CoreLife (1993)](https://corewar.co.uk/corelife.htm)
 * [TclRobots (1994)](https://github.com/jonasferry/TclRobots)
