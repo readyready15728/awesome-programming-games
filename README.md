@@ -37,11 +37,10 @@ this criterion and will eventually be moved to a separate
 | [*Battle Droids* (1991)](https://corewar.co.uk/battledroids.htm) | Another, perhaps lesser-known tank battler using BASIC. The documentation seems quite excellent. |
 | [*ARobots* (1992)](https://corewar.co.uk/arobots.htm) | Tank battle royale using 8086 assembly. Documentation is fairly scant but several pre-built robots are available. The available primitives include a random number generator, reminding me of how science fiction author Fred Saberhagen's fictional killing machines known as "[Berserkers](https://tvtropes.org/pmwiki/pmwiki.php/Literature/Berserker)" use random numbers based on radioactive decay to make their behavior unpredictable. |
 | [*AT-Robots* (1992)](http://necrobones.com/atrobots/) | Tank battler using assembly-like with languages with a few interesting nuances in addition to the standard milieu, such as the need to manage heat. Website includes the results of past tournaments and the source code of robot tanks entered into said tournaments. |
-
-* [Combat Zone (1993)](https://corewar.co.uk/combatzone.htm)
-* [CoreLife (1993)](https://corewar.co.uk/corelife.htm)
-* [TclRobots (1994)](https://github.com/jonasferry/TclRobots)
-* [TORCS (1997)](http://torcs.sourceforge.net/)
+| [*Combat Zone* (1993)](https://corewar.co.uk/combatzone.htm) | Shareware robot battler for Windows 3.x. Language possibly inspired by Logo. |
+| [*CoreLife* (1993)](https://corewar.co.uk/corelife.htm) | "Programs are written in a two-dimensional assembly-like language. Each instruction has one or two arguments and direction flags to indicate the flow of control." An influence on the later *TIS-100*? |
+| [*TclRobots* (1994)](https://wiki.tcl-lang.org/page/TclRobots) | Like *Crobots* but with Tcl instead of C. Both written by the same author, Tom Poindexter. |
+| [*TORCS* (2001)](http://torcs.sourceforge.net/) | *The Open Racing Car Simulator*, developed since 1997 and usable both with human driving and the automated sense relevant here. Has been used in [numerous research papers](https://scholar.google.com/scholar?q="Open+Racing+Car+Simulator") since its release. |
 
 ## Recent Games, Traditional Software
 
