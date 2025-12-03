@@ -52,9 +52,6 @@ this criterion and will eventually be moved to a separate
 ### Zachtronics (in Order of Release)
 
 * [KOHCTPYKTOP: Engineer of the People](http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/)
-* [The Bureau of Steam Engineering](https://www.zachtronics.com/the-codex-of-alchemical-engineering/)
-* [SpaceChem](http://www.zachtronics.com/spacechem/)
-* [Infinifactory](http://www.zachtronics.com/infinifactory/)
 * [TIS-100](http://www.zachtronics.com/tis-100/)
 * [SHENZHEN I/O](http://www.zachtronics.com/shenzhen-io/)
 * [Opus Magnum](http://www.zachtronics.com/opus-magnum/)
