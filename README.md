@@ -62,14 +62,17 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*KOHCTPYKTOP: Engineer of the People*](http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/) | The title appears to be Cyrillic but those are really just capitalized ASCII characters that match their Cyrillic counterparts. Presumably pronounced "CONSTRUCTOR". The game is based on designing integrated circuits based on specifications provided by a manager in what is presumably some sort of Soviet factory, with an overarching plot somehow involving a mysterious connection to communism. |
 | [*TIS-100*](http://www.zachtronics.com/tis-100/) | 80's-themed assembly language puzzle with multiple independently programmable nodes capable of communication with each other, apparently a sort of [MIMD architecture](https://en.wikipedia.org/wiki/Multiple_instruction,_multiple_data). Features extensive manual that reads "like the real thing". |
 | [*SHENZHEN I/O*](http://www.zachtronics.com/shenzhen-io/) | Build increasingly complex digital logic circuitry, this time not for your Soviet boss, but as a worker for a private firm in the "electronics capital of the world". Shares the same sort of extensive, realistic documentation present in *TIS-100* and includes a solitaire minigame. |
-* [EXAPUNKS](http://www.zachtronics.com/exapunks/)
+| [*EXAPUNKS*](http://www.zachtronics.com/exapunks/) | Multi-agent programming in assembly with a strong cyberpunk flair. [Users have likened the overall architecture to multi-threading or even the more advanced model put forward by Erlang.](https://www.reddit.com/r/exapunks/comments/hxwyzv/whats_the_analog_to_exas_in_realworld_programming/) |
 
 ### Others
 
-* [Adventure Land](https://adventure.land/)
-* [Algo Bot](http://www.algo-bot.com/)
-* [AntMe!](http://www.antme.net/)
-* [Automachef](https://store.steampowered.com/app/984800/Automachef/)
+| Title | Description and Notes |
+|---|---|
+| [*Adventure Land*](https://adventure.land/) | Indie MMORPG with optional automation of tedious grinding by programming player characters with JavaScript. (Appears to be abandoned.) |
+| [*Algo Bot*](http://www.algo-bot.com/) | Rescue a colony ship's mission in space using a visual programming language. Users have claimed to experienced various difficulties including with a buggy Linux native version. |
+| [*AntMe!*](http://www.antme.net/) | Learn to program by automating computerized cartoon ants in C# or VB.NET! Much documentation appears to be only available in the original German. |
+| [*Automachef*](https://store.steampowered.com/app/984800/Automachef/) | Meet the demands of a hectic commercial kitchen the best way anyone can: with programming! There are two related assembly languages used in game with some helpful visual elements for neophytes. |
+
 * [Autonauts](https://store.steampowered.com/app/979120/Autonauts/)
 * [Baba Is You](http://www.hempuli.com/baba/)
 * [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
