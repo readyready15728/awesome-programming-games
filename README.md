@@ -62,10 +62,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*KOHCTPYKTOP: Engineer of the People*](http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/) | The title appears to be Cyrillic but those are really just capitalized ASCII characters that match their Cyrillic counterparts. Presumably pronounced "CONSTRUCTOR". The game is based on designing integrated circuits based on specifications provided by a manager in what is presumably some sort of Soviet factory, with an overarching plot somehow involving a mysterious connection to communism. |
 | [*TIS-100*](http://www.zachtronics.com/tis-100/) | 80's-themed assembly language puzzle with multiple independently programmable nodes capable of communication with each other, apparently a sort of [MIMD architecture](https://en.wikipedia.org/wiki/Multiple_instruction,_multiple_data). Features extensive manual that reads "like the real thing". |
 | [*SHENZHEN I/O*](http://www.zachtronics.com/shenzhen-io/) | Build increasingly complex digital logic circuitry, this time not for your Soviet boss, but as a worker for a private firm in the "electronics capital of the world". Shares the same sort of extensive, realistic documentation present in *TIS-100* and includes a solitaire minigame. |
-
-* [Opus Magnum](http://www.zachtronics.com/opus-magnum/)
 * [EXAPUNKS](http://www.zachtronics.com/exapunks/)
-* [MOLEK-SYNTEZ](http://www.zachtronics.com/molek-syntez/)
 
 ### Others
 
