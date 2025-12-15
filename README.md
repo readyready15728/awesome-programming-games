@@ -74,10 +74,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Automachef*](https://store.steampowered.com/app/984800/Automachef/) | Meet the demands of a hectic commercial kitchen the best way anyone can: with programming! There are two related assembly languages used in game with some helpful visual elements for neophytes. |
 
 * [Autonauts](https://store.steampowered.com/app/979120/Autonauts/)
-* [Baba Is You](http://www.hempuli.com/baba/)
 * [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
 * [Battlesnake](https://play.battlesnake.com)
-* [Blockland](https://store.steampowered.com/app/250340/Blockland/)
 * [Botomy](https://botomy.com/)
 * [Bug Brain](http://www.biologic.com.au/bugbrain/)
 * [CHR$(143)](https://store.steampowered.com/app/1695620/CHR143/)
