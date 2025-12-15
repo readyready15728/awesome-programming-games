@@ -72,12 +72,12 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Algo Bot*](http://www.algo-bot.com/) | Rescue a colony ship's mission in space using a visual programming language. Users have claimed to experienced various difficulties including with a buggy Linux native version. |
 | [*AntMe!*](http://www.antme.net/) | Learn to program by automating computerized cartoon ants in C# or VB.NET! Much documentation appears to be only available in the original German. |
 | [*Automachef*](https://store.steampowered.com/app/984800/Automachef/) | Meet the demands of a hectic commercial kitchen the best way anyone can: with programming! There are two related assembly languages used in game with some helpful visual elements for neophytes. |
+| [*Autonauts*](https://store.steampowered.com/app/979120/Autonauts/) | Build and, of course, automate a colony of agriculture and industry using a Scratch-like visual programming language. |
+| [*Bashcrawl*](https://gitlab.com/slackermedia/bashcrawl) | "Learn Linux commands by playing a simple text adventure." |
+| [*Battlesnake*](https://play.battlesnake.com) | Multi-player "Snake" game with the standard goal of becoming a bigger snake by eating but also of avoiding other snake bots. Game is entirely language-, platform- and algorithm-agnostic and demands only that you implement a web server that implements the game's API, which is used to map the state of the board to the next move at any given time step. |
+| [*Botomy*](https://botomy.com/) | RPG-style game with free-for-all and cooperative survival modes, also driven by a technology-agnostic API approach. |
+| [*Bug Brain*](http://www.biologic.com.au/bugbrain/) | Automate a digital ladybug and perform other experiments by building neural networks. Since exclusive OR (XOR) is one of the examples it appears safe to assume these aren't only perceptrons depicted on the website. |
 
-* [Autonauts](https://store.steampowered.com/app/979120/Autonauts/)
-* [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
-* [Battlesnake](https://play.battlesnake.com)
-* [Botomy](https://botomy.com/)
-* [Bug Brain](http://www.biologic.com.au/bugbrain/)
 * [CHR$(143)](https://store.steampowered.com/app/1695620/CHR143/)
 * [Code E.D.](https://jaywee1115.itch.io/code-ed)
 * [Codemancer](https://store.steampowered.com/app/1103400/Codemancer/)
