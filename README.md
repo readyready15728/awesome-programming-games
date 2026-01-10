@@ -80,7 +80,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 
 * [Code E.D.](https://jaywee1115.itch.io/code-ed)
 * [Codemancer](https://store.steampowered.com/app/1103400/Codemancer/)
-* [Code Hero](https://codeherogame.wordpress.com/)
 * [Colobot](http://www.ceebot.com/colobot/index-e.php)
 * [Colobot: Gold Edition](https://colobot.info/)
 * [Comet 64](https://store.steampowered.com/app/1397290/Comet_64/)
