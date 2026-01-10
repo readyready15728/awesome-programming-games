@@ -83,7 +83,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Comet 64*](https://store.steampowered.com/app/1397290/Comet_64/) | Use a hybrid of assembly and C-like syntax to unlock the mysteries of the titular fictional computer. Includes leaderboards for minimizing instruction and cycle counts. |
 | [*Craftomation: Programming & Craft*](https://luden.io/craftomation/) | Automate the terraforming of a frozen planet with robots programmed using a visual programming language. |
 
-* [Colobot](http://www.ceebot.com/colobot/index-e.php)
 * [Crescent Loom](https://crescentloom.com/)
 * [Cyber Sentinel](https://store.steampowered.com/app/485970/Cyber_Sentinel/)
 * [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
