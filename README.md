@@ -78,7 +78,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Botomy*](https://botomy.com/) | RPG-style game with free-for-all and cooperative survival modes, also driven by a technology-agnostic API approach. |
 | [*Bug Brain*](http://www.biologic.com.au/bugbrain/) | Automate a digital ladybug and perform other experiments by building neural networks. Since exclusive OR (XOR) is one of the examples it appears safe to assume these aren't only perceptrons depicted on the website. |
 
-* [CHR$(143)](https://store.steampowered.com/app/1695620/CHR143/)
 * [Code E.D.](https://jaywee1115.itch.io/code-ed)
 * [Codemancer](https://store.steampowered.com/app/1103400/Codemancer/)
 * [Code Hero](https://codeherogame.wordpress.com/)
