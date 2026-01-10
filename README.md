@@ -77,13 +77,13 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Battlesnake*](https://play.battlesnake.com) | Multi-player "Snake" game with the standard goal of becoming a bigger snake by eating but also of avoiding other snake bots. Game is entirely language-, platform- and algorithm-agnostic and demands only that you implement a web server that implements the game's API, which is used to map the state of the board to the next move at any given time step. |
 | [*Botomy*](https://botomy.com/) | RPG-style game with free-for-all and cooperative survival modes, also driven by a technology-agnostic API approach. |
 | [*Bug Brain*](http://www.biologic.com.au/bugbrain/) | Automate a digital ladybug and perform other experiments by building neural networks. Since exclusive OR (XOR) is one of the examples it appears safe to assume these aren't only perceptrons depicted on the website. |
+| [*Code E.D.*](https://jaywee1115.itch.io/code-ed) | Use Lua to program a robot exploring a new habitable planet for humankind. Features a fairly sophisticated editor with help features and interactive debugger. |
+| [*Codemancer*](https://codemancergame.com/) | Learn to program using a specialized visual programming language. Targeted at ages 6-12, but suitable for all ages. |
+| [*Colobot*](https://colobot.info/) | Use a bespoke language similar to C++ and Java to explore and colonize hostile planets after life on Earth is threatened by a great cataclysm. |
+| [*Comet 64*](https://store.steampowered.com/app/1397290/Comet_64/) | Use a hybrid of assembly and C-like syntax to unlock the mysteries of the titular fictional computer. Includes leaderboards for minimizing instruction and cycle counts. |
+| [*Craftomation: Programming & Craft*](https://luden.io/craftomation/) | Automate the terraforming of a frozen planet with robots programmed using a visual programming language. |
 
-* [Code E.D.](https://jaywee1115.itch.io/code-ed)
-* [Codemancer](https://store.steampowered.com/app/1103400/Codemancer/)
 * [Colobot](http://www.ceebot.com/colobot/index-e.php)
-* [Colobot: Gold Edition](https://colobot.info/)
-* [Comet 64](https://store.steampowered.com/app/1397290/Comet_64/)
-* [Craftomation: Programming & Craft](https://store.steampowered.com/app/1724140/Craftomation_101_Programming__Craft/)
 * [Crescent Loom](https://crescentloom.com/)
 * [Cyber Sentinel](https://store.steampowered.com/app/485970/Cyber_Sentinel/)
 * [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
