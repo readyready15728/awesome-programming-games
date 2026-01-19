@@ -88,6 +88,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Debugger 3.16: Hack 'n' Run*](http://www.spiderwork-games.com/debugger.htm) | Help a sentient debugger get rid of all the bugs in a developer's game worlds. |
 | [*Dreamjob: Programmer*](https://store.steampowered.com/app/1264390/Dreamjob_Programmer_Simulator__Learn_Programming_Games/) | Climb the corporate ladder and level up as a programmer using Python, C++, C#, Java or JavaScript (TBA.) |
 | [*Duskers*](http://duskers.misfits-attic.com/) | "Pilot drones into derelict spaceships to find the means to survive and piece together how the universe became a giant graveyard Pilot drones into derelict spaceships to find the means to survive and piece together how the universe became a giant graveyard". |
+| [*Echoes of the Architects*](https://store.steampowered.com/app/3136490/Echoes_of_the_Architects/) | Use a very high-level programming language to compete in an RTS autobattler. |
 
 * [Else Heart.Break()](https://store.steampowered.com/app/400110/Else_HeartBreak/)
 * [Exception](https://exceptiongame.com/)
