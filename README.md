@@ -82,13 +82,13 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Colobot*](https://colobot.info/) | Use a bespoke language similar to C++ and Java to explore and colonize hostile planets after life on Earth is threatened by a great cataclysm. |
 | [*Comet 64*](https://store.steampowered.com/app/1397290/Comet_64/) | Use a hybrid of assembly and C-like syntax to unlock the mysteries of the titular fictional computer. Includes leaderboards for minimizing instruction and cycle counts. |
 | [*Craftomation: Programming & Craft*](https://luden.io/craftomation/) | Automate the terraforming of a frozen planet with robots programmed using a visual programming language. |
+| [*Crescent Loom*](https://crescentloom.com/) | Evolve digital creatures using biologically plausible neural nets. |
+| [*Cyber Sentinel*](https://store.steampowered.com/app/485970/Cyber_Sentinel/) | Experience the hacker's side of cyberpunk by using visual programming to create computer viruses.  |
+| [*DeepestWorld*](https://deepestworld.com/) | Explore, hunt monsters, gather resources, craft and grind using JavaScript to automate the actions of your character. |
+| [*Debugger 3.16: Hack 'n' Run*](http://www.spiderwork-games.com/debugger.htm) | Help a sentient debugger get rid of all the bugs in a developer's game worlds. |
+| [*Dreamjob: Programmer*](https://store.steampowered.com/app/1264390/Dreamjob_Programmer_Simulator__Learn_Programming_Games/) | Climb the corporate ladder and level up as a programmer using Python, C++, C#, Java or JavaScript (TBA.) |
+| [*Duskers*](http://duskers.misfits-attic.com/) | "Pilot drones into derelict spaceships to find the means to survive and piece together how the universe became a giant graveyard Pilot drones into derelict spaceships to find the means to survive and piece together how the universe became a giant graveyard". |
 
-* [Crescent Loom](https://crescentloom.com/)
-* [Cyber Sentinel](https://store.steampowered.com/app/485970/Cyber_Sentinel/)
-* [DeepestWorld](https://deepestworld.com/)
-* [Debugger 3.16: Hack 'n' Run](http://www.spiderwork-games.com/debugger.htm)
-* [Dreamjob: Programmer](https://dreamwaygames.com/dreamjob-programmer/)
-* [Duskers](http://duskers.misfits-attic.com/)
 * [Else Heart.Break()](https://store.steampowered.com/app/400110/Else_HeartBreak/)
 * [Exception](https://exceptiongame.com/)
 * [Exploit Exercises](https://exploit-exercises.lains.space/)
