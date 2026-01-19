@@ -85,7 +85,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 
 * [Crescent Loom](https://crescentloom.com/)
 * [Cyber Sentinel](https://store.steampowered.com/app/485970/Cyber_Sentinel/)
-* [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
 * [DeepestWorld](https://deepestworld.com/)
 * [Debugger 3.16: Hack 'n' Run](http://www.spiderwork-games.com/debugger.htm)
 * [Dreamjob: Programmer](https://dreamwaygames.com/dreamjob-programmer/)
