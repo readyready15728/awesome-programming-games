@@ -184,6 +184,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
   * [Android](https://play.google.com/store/apps/details?id=com.spritebox.coding)
   * [iOS](https://apps.apple.com/us/app/light-bot/id1270538471)
 * [Swift Playgrounds](https://apps.apple.com/app/id908519492) (iPad only)
+* [TIS-100P](https://apps.apple.com/kr/app/tis-100p/id1070879899) (iOS only)
 * [7 Billion Humans](https://apps.apple.com/us/app/7-billion-humans/id1393923918) (iOS only)
 
 ## Recent Games, Browser- or Server-Based
