@@ -97,8 +97,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*git-game-v2*](https://github.com/git-game/git-game-v2) | Sequel to git-game testing the user on more advanced aspects of Git. |
 | [*Gladiabots*](https://gladiabots.com/) | Configure squads of robots with a visual programming language. Test and improve your strategies then deploy them on the battlefield against against computer opponents or online against other humans. |
 
-* [Exploit Exercises](https://exploit-exercises.lains.space/)
-* [Google Gruyère](http://google-gruyere.appspot.com/)
 * [Glitchspace](https://spacebudgie.itch.io/glitchspace)
 * [GNU Robots](https://www.gnu.org/software/gnurobots/)
 * [Graphomata](https://graphomata.com/)
