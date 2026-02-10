@@ -91,15 +91,15 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Dreamjob: Programmer Simulator*](https://store.steampowered.com/app/1264390/Dreamjob_Programmer_Simulator__Learn_Programming_Games/) | Climb the corporate ladder and level up as a programmer using Python, C++, C#, Java or JavaScript. (TBA.) |
 | [*Duskers*](http://duskers.misfits-attic.com/) | "Pilot drones into derelict spaceships to find the means to survive and piece together how the universe became a giant graveyard Pilot drones into derelict spaceships to find the means to survive and piece together how the universe became a giant graveyard". |
 | [*Echoes of the Architects*](https://store.steampowered.com/app/3136490/Echoes_of_the_Architects/) | Use a very high-level programming language to compete in an RTS autobattler. |
+| [*Else Heart.Break()*](http://elseheartbreak.com/) | 3-D graphical adventure game in which numerous everyday objects can be programmed as a means of solving the game's puzzles. |
+| [*The Farmer Was Replaced*](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/) | "Program and optimize a drone to automate a farm and watch it do the work for you. Collect resources to unlock better technology and become the most efficient farmer in the world. Improve your problem solving and coding skills." |
+| [*git-game*](https://github.com/git-game/git-game) | "Terminal game to test Git skills." |
+| [*git-game-v2*](https://github.com/git-game/git-game-v2) | Sequel to git-game testing the user on more advanced aspects of Git. |
+| [*Gladiabots*](https://gladiabots.com/) | Configure squads of robots with a visual programming language. Test and improve your strategies then deploy them on the battlefield against against computer opponents or online against other humans. |
 
-* [Else Heart.Break()](https://store.steampowered.com/app/400110/Else_HeartBreak/)
 * [Exception](https://exceptiongame.com/)
 * [Exploit Exercises](https://exploit-exercises.lains.space/)
-* [The Farmer Was Replaced](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/)
-* [git-game](https://github.com/git-game/git-game)
-* [git-game-v2](https://github.com/git-game/git-game-v2)
 * [Google Gruyère](http://google-gruyere.appspot.com/)
-* [Gladiabots](https://gladiabots.com/)
 * [Glitchspace](https://spacebudgie.itch.io/glitchspace)
 * [GNU Robots](https://www.gnu.org/software/gnurobots/)
 * [Graphomata](https://graphomata.com/)
