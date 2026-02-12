@@ -102,7 +102,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Grey Hack*](https://greyhackgame.com/) | MMO hacking simulation with vast procedurally generated network of potential target computers. |
 | [*hackmud*](hhttps://hackmud.com/) | Another hacking MMO with deliberately campy "retro" hacking aesthetics and strong player-run elements, all powered by the (love it or hate it) universal language of the Internet, JavaScript (ES6, with "strict" mode enabled). |
 
-* [Great Permutator](https://igf.com/great-permutator)
 * [Hacknet](https://hacknet-os.com/)
 * [Hack 'n' Slash](https://www.doublefine.com/games/hack-n-slash)
 * [Joy of Programming](https://store.steampowered.com/app/2216770/JOY_OF_PROGRAMMING__Software_Engineering_Simulator/)
