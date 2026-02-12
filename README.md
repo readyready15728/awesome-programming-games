@@ -96,13 +96,13 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*git-game*](https://github.com/git-game/git-game) | "Terminal game to test Git skills." |
 | [*git-game-v2*](https://github.com/git-game/git-game-v2) | Sequel to git-game testing the user on more advanced aspects of Git. |
 | [*Gladiabots*](https://gladiabots.com/) | Configure squads of robots with a visual programming language. Test and improve your strategies then deploy them on the battlefield against against computer opponents or online against other humans. |
+| [*Glitchspace*](https://spacebudgie.itch.io/glitchspace) | Use a physics- and geometry-based visual programming language to reprogram the game itself and solve puzzles to find your way home from a cyberspace world. |
+| [*GNU Robots*](https://www.gnu.org/software/gnurobots/) | Program a little robot in Scheme (specifically GNU Guile) to navigate a maze, finding food for energy, prizes to increase your score, and evading or neutralizing "baddies". |
+| [*Graphomata*](https://graphomata.com/) | Use a visual programming language to create [graphs](https://www.britannica.com/topic/graph-theory) (as in "mathematical networks") matching desired specifications and see your solutions come to life both as graphs and as a number of other programming languages. |
+| [*Grey Hack*](https://greyhackgame.com/) | MMO hacking simulation with vast procedurally generated network of potential target computers. |
+| [*hackmud*](hhttps://hackmud.com/) | Another hacking MMO with deliberately campy "retro" hacking aesthetics and strong player-run elements, all powered by the (love it or hate it) universal language of the Internet, JavaScript (ES6, with "strict" mode enabled). |
 
-* [Glitchspace](https://spacebudgie.itch.io/glitchspace)
-* [GNU Robots](https://www.gnu.org/software/gnurobots/)
-* [Graphomata](https://graphomata.com/)
 * [Great Permutator](https://igf.com/great-permutator)
-* [Grey Hack](https://greyhackgame.com/)
-* [hackmud](https://store.steampowered.com/app/469920/hackmud/)
 * [Hacknet](https://hacknet-os.com/)
 * [Hack 'n' Slash](https://www.doublefine.com/games/hack-n-slash)
 * [Joy of Programming](https://store.steampowered.com/app/2216770/JOY_OF_PROGRAMMING__Software_Engineering_Simulator/)
