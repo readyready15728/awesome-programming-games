@@ -100,7 +100,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*GNU Robots*](https://www.gnu.org/software/gnurobots/) | Program a little robot in Scheme (specifically GNU Guile) to navigate a maze, finding food for energy, prizes to increase your score, and evading or neutralizing "baddies". |
 | [*Graphomata*](https://graphomata.com/) | Use a visual programming language to create [graphs](https://www.britannica.com/topic/graph-theory) (as in "mathematical networks") matching desired specifications and see your solutions come to life both as graphs and as a number of other programming languages. |
 | [*Grey Hack*](https://greyhackgame.com/) | MMO hacking simulation with vast procedurally generated network of potential target computers. |
-| [*hackmud*](hhttps://hackmud.com/) | Another hacking MMO with deliberately campy "retro" hacking aesthetics and strong player-run elements, all powered by the (love it or hate it) universal language of the Internet, JavaScript (ES6, with "strict" mode enabled). |
+| [*hackmud*](https://hackmud.com/) | Another hacking MMO with deliberately campy "retro" hacking aesthetics and strong player-run elements, all powered by the (love it or hate it) universal language of the Internet, JavaScript (ES6, with "strict" mode enabled). |
 
 * [Hacknet](https://hacknet-os.com/)
 * [Hack 'n' Slash](https://www.doublefine.com/games/hack-n-slash)
