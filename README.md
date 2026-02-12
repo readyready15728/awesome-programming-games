@@ -107,7 +107,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 * [Joy of Programming](https://store.steampowered.com/app/2216770/JOY_OF_PROGRAMMING__Software_Engineering_Simulator/)
 * [Kodu](https://www.kodugamelab.com/)
 * [KnotBot](https://store.steampowered.com/app/1269830/KnotBot/)
-* [Learn Git Brannching](https://learngitbranching.js.org/)
+* [Learn Git Branching](https://learngitbranching.js.org/)
 * [Logic World](https://logicworld.net/)
 * [LogicBots](https://store.steampowered.com/app/290020/LogicBots/)
 * [The Magic Circle](https://store.steampowered.com/app/323380/The_Magic_Circle/)
