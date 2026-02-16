@@ -203,6 +203,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 * [Code Monkey](https://www.codemonkey.com/)
 * [Code.org](https://code.org/)
 * [CodeCombat](https://codecombat.com/)
+* [Code.golf](https://code.golf/)
 * [Codingame](https://www.codingame.com/)
 * [corewars8086_js](https://shooshx.github.io/corewars8086_js/)
 * [Cube Composer](https://david-peter.de/cube-composer/)
