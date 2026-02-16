@@ -101,12 +101,13 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Graphomata*](https://graphomata.com/) | Use a visual programming language to create [graphs](https://www.britannica.com/topic/graph-theory) (as in "mathematical networks") matching desired specifications and see your solutions come to life both as graphs and as a number of other programming languages. |
 | [*Grey Hack*](https://greyhackgame.com/) | MMO hacking simulation with vast procedurally generated network of potential target computers. |
 | [*hackmud*](https://hackmud.com/) | Another hacking MMO with deliberately campy "retro" hacking aesthetics and strong player-run elements, all powered by the (love it or hate it) universal language of the Internet, JavaScript (ES6, with "strict" mode enabled). |
+| [*Hacknet*](https://hacknet-os.com/) | Terminal-driven hacking game with campy Hollywood aesthetics. Pretty fun, but consider a caveat from one of the reviews on Steam: "Solid game, but if you want to do real hacking, go to TryHackMe or HackTheBox." |
+| [*Hack 'n' Slash*](https://www.doublefine.com/games/hack-n-slash) | Imagine *The Legend of Zelda* but you can hack the game itself to move towards victory. |
+  | [*Joy of Programming*](https://store.steampowered.com/app/2216770/JOY_OF_PROGRAMMING__Software_Engineering_Simulator/) | Use Python for automation and machine learning. The focus appears to be on manufacturing and uncrewed autonomous combat vehicles. Author recommends that you have prior experience with programming and don't go in as a beginner. |
+| [*Kodu*](https://www.kodugamelab.com/) | Create 3-D worlds with agents and objects and control them using a visual programming language. Intended for children but can be used at all ages. |
+| [*KnotBot*](https://store.steampowered.com/app/1269830/KnotBot/) | "Solve coding problems with knots and yarn-balls instead of text and numbers." Also has a visual programming language. |
 
-* [Hacknet](https://hacknet-os.com/)
-* [Hack 'n' Slash](https://www.doublefine.com/games/hack-n-slash)
-* [Joy of Programming](https://store.steampowered.com/app/2216770/JOY_OF_PROGRAMMING__Software_Engineering_Simulator/)
-* [Kodu](https://www.kodugamelab.com/)
-* [KnotBot](https://store.steampowered.com/app/1269830/KnotBot/)
+
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [Logic World](https://logicworld.net/)
 * [LogicBots](https://store.steampowered.com/app/290020/LogicBots/)
