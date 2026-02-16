@@ -107,7 +107,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Kodu*](https://www.kodugamelab.com/) | Create 3-D worlds with agents and objects and control them using a visual programming language. Intended for children but can be used at all ages. |
 | [*KnotBot*](https://store.steampowered.com/app/1269830/KnotBot/) | "Solve coding problems with knots and yarn-balls instead of text and numbers." Also has a visual programming language. |
 
-
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [Logic World](https://logicworld.net/)
 * [LogicBots](https://store.steampowered.com/app/290020/LogicBots/)
