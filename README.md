@@ -194,6 +194,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 * [BOX-256](http://box-256.com/)
 * [Battlecode](https://www.battlecode.org/)
 * [Blockly](https://blockly.games/)
+* [Byte Heist](https://byte-heist.com/)
 * [Carnival](https://codepen.io/una/pen/NxZaNr)
 * [CodeCraft](http://www.codecraftgame.org/)
 * [CSS Diner](http://flukeout.github.io/)
