@@ -106,14 +106,14 @@ under the "programming" rubric. I have now excluded a number of titles such as
   | [*Joy of Programming*](https://store.steampowered.com/app/2216770/JOY_OF_PROGRAMMING__Software_Engineering_Simulator/) | Use Python for automation and machine learning. The focus appears to be on manufacturing and uncrewed autonomous combat vehicles. Author recommends that you have prior experience with programming and don't go in as a beginner. |
 | [*Kodu*](https://www.kodugamelab.com/) | Create 3-D worlds with agents and objects and control them using a visual programming language. Intended for children but can be used at all ages. |
 | [*KnotBot*](https://store.steampowered.com/app/1269830/KnotBot/) | "Solve coding problems with knots and yarn-balls instead of text and numbers." Also has a visual programming language. |
+| [*Learn Git Branching*](https://learngitbranching.js.org/) | Interactive Git tutorial from basic commands to increasingly arcane ones. |
+| [*Logic World*](https://logicworld.net/) | Think Minecraft, but exclusively for digital logic. Includes multiplayer options. |
+| [*LogicBots*](https://store.steampowered.com/app/290020/LogicBots/) | Design and build robots in a 3-D world and combine logic gates to control their behavior and meet various objectives. |
+| [*Marvellous Inc.*](https://marvellous.itch.io/marvellous-inc) | Get hired by a sketchy international conglomerate and uncover its secrets as you write assembly code to solve increasingly complex tasks. |
+| [*Mechanica*](https://store.steampowered.com/app/1226990/Mechanica/) | Automate manufacturing and base defenses using a visual programming language in an inhospitable desert wasteland. |
+| [*MHRD*](https://store.steampowered.com/app/576030/MHRD/) | Work for the startup company "Microhard" and build circuitry with a hardware description language starting from basic logic gates and leading all the way up to a full-fledged CPU.   |
 
-* [Learn Git Branching](https://learngitbranching.js.org/)
-* [Logic World](https://logicworld.net/)
-* [LogicBots](https://store.steampowered.com/app/290020/LogicBots/)
 * [The Magic Circle](https://store.steampowered.com/app/323380/The_Magic_Circle/)
-* [Marvellous Inc.](https://marvellous.itch.io/marvellous-inc)
-* [Mechanica](https://store.steampowered.com/app/1226990/Mechanica/)
-* [MHRD](https://store.steampowered.com/app/576030/MHRD/)
 * [Midnight Protocol](https://www.midnightprotocol.net/)
 * [MindRover](https://en.wikipedia.org/wiki/MindRover)
 * [Minecraft Hour of Code](https://code.org/minecraft)
