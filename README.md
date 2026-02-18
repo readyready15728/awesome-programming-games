@@ -113,7 +113,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Mechanica*](https://store.steampowered.com/app/1226990/Mechanica/) | Automate manufacturing and base defenses using a visual programming language in an inhospitable desert wasteland. |
 | [*MHRD*](https://store.steampowered.com/app/576030/MHRD/) | Work for the startup company "Microhard" and build circuitry with a hardware description language starting from basic logic gates and leading all the way up to a full-fledged CPU.   |
 
-* [The Magic Circle](https://store.steampowered.com/app/323380/The_Magic_Circle/)
 * [Midnight Protocol](https://www.midnightprotocol.net/)
 * [MindRover](https://en.wikipedia.org/wiki/MindRover)
 * [Minecraft Hour of Code](https://code.org/minecraft)
