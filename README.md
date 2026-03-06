@@ -261,6 +261,7 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 * [WarriorJS](https://warriorjs.com/)
 * [WeChall](http://www.wechall.net/) (not the same as the other, similar-sounding entry!)
 * [XSS Game](https://xss-game.appspot.com/)
+* [Yare](https://yare.io/) - Multiplayer programming strategy game where players write JavaScript to control units ("cats") in real-time 1v1 matches. ELO matchmaking and replays.
 
 ## Recent Games, Console
 
