@@ -117,12 +117,12 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Move Code Lines*](https://store.steampowered.com/app/1300310/Move_Code_Lines/) | Debug and fix code with the huge caveat that you can only do so by altering the order of existing lines, hence the name. |
 | [*NebuLeet*](https://store.steampowered.com/app/3024370/NebuLeet) | Lead a paramilitary force against a nascent dangerous cult, including with programmable ships that, if well-instructed, can even turn the tide against superior technology. |
 | [*Neon Noodles*](https://neonnoodles.com/) | Run a hectic commercial kitchen, but with visually programmed robots to lighten the load. |
+| [*Oh My Git*](https://ohmygit.org/) | Learn Git with an educational open source game. |
+| [*One Dreamer*](https://www.one-dreamer.com/thegame/) | Help a burnt-out indie game developer rediscover his love of video games with a C#-based programming language. |
+| [*Pony Island*](https://www.pony-island.com/) | Escape from an arcade machine devised by the devil himself by modifying its infernal software. |
+| [*Prelogate*](https://store.steampowered.com/app/332830/Prelogate/) | Solve puzzles by redirecting, mixing and controlling laser beams with logic gates. |
+| [*Prime Mover*](https://www.4bitgames.com/primemover) | Build circuit boards from basic transistors  to whole processors, uncovering the story of "Byte of Burden" along the way. |
 
-* [Oh My Git](https://ohmygit.org/)
-* [One Dreamer](https://www.one-dreamer.com/thegame/)
-* [Pony Island](https://www.pony-island.com/)
-* [Prelogate](https://store.steampowered.com/app/332830/Prelogate/)
-* [Prime Mover](https://store.steampowered.com/app/693700/Prime_Mover/)
 * [Pure Logic](https://store.steampowered.com/app/1861500/Pure_Logic/)
 * [Quadrilateral Cowboy](https://blendogames.com/qc/)
 * [Rec Room](https://recroom.com/rec-room/)
