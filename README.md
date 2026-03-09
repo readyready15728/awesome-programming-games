@@ -122,13 +122,13 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Pony Island*](https://www.pony-island.com/) | Escape from an arcade machine devised by the devil himself by modifying its infernal software. |
 | [*Prelogate*](https://store.steampowered.com/app/332830/Prelogate/) | Solve puzzles by redirecting, mixing and controlling laser beams with logic gates. |
 | [*Prime Mover*](https://www.4bitgames.com/primemover) | Build circuit boards from basic transistors  to whole processors, uncovering the story of "Byte of Burden" along the way. |
+| [*Pure Logic*](https://store.steampowered.com/app/1861500/Pure_Logic/) | A game which, as the name suggests, is a very minimalist affair focused on making combinational logic circuits all true. |
+| [*Quadrilateral Cowboy*](https://blendogames.com/qc/) | Retrofuturist hacker game where you sell your skills to the highest bidder while using your state-of-the-art hacking deck with a 56k modem and 256K of RAM. |
+| [*Robo Instructus*](https://www.roboinstruct.us/) | Automate a salvage robot using a simple high-level programming language and master said language just as you master your robot. |
+| [*Robocode*](https://robocode.sourceforge.io/) | Revisiting the classing robot tank formula of old, with duels, all-against-all battles and two opposing teams. Comes with an original, fully implemented original based on Java and a newer work in progress based on a client/server architecture allowing many languages. |
+| [*Robocoder - Dwarf Mountain*](https://store.steampowered.com/app/2212850/Robocoder__Dwarf_Mountain/) | Operate your discover droid Mar10 and solve logic- and physics-based puzzles in a handcrafted world. Apparently abandoned in early access. |
 
-* [Pure Logic](https://store.steampowered.com/app/1861500/Pure_Logic/)
-* [Quadrilateral Cowboy](https://blendogames.com/qc/)
 * [Rec Room](https://recroom.com/rec-room/)
-* [Robo Instructus](https://www.roboinstruct.us/)
-* [Robocode](https://robocode.sourceforge.io/)
-* [Robocoder - Dwarf Mountain](https://store.steampowered.com/app/2212850/Robocoder__Dwarf_Mountain/)
 * [Rogue Bit](https://store.steampowered.com/app/949790/Rogue_Bit/)
 * [Roody:2d](https://store.steampowered.com/app/2345220/Roody2d/)
 * [Sand:box](https://store.steampowered.com/app/2179380/Sandbox/)
