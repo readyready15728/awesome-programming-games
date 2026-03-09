@@ -128,7 +128,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Robocode*](https://robocode.sourceforge.io/) | Revisiting the classing robot tank formula of old, with duels, all-against-all battles and two opposing teams. Comes with an original, fully implemented original based on Java and a newer work in progress based on a client/server architecture allowing many languages. |
 | [*Robocoder - Dwarf Mountain*](https://store.steampowered.com/app/2212850/Robocoder__Dwarf_Mountain/) | Operate your discover droid Mar10 and solve logic- and physics-based puzzles in a handcrafted world. Apparently abandoned in early access. |
 
-* [Rec Room](https://recroom.com/rec-room/)
 * [Rogue Bit](https://store.steampowered.com/app/949790/Rogue_Bit/)
 * [Roody:2d](https://store.steampowered.com/app/2345220/Roody2d/)
 * [Sand:box](https://store.steampowered.com/app/2179380/Sandbox/)
