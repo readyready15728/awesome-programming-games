@@ -129,12 +129,9 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Robocoder - Dwarf Mountain*](https://store.steampowered.com/app/2212850/Robocoder__Dwarf_Mountain/) | Operate your discovery droid Mar10 and solve logic- and physics-based puzzles in a handcrafted world. Apparently abandoned in early access. |
 
 * [Rogue Bit](https://store.steampowered.com/app/949790/Rogue_Bit/)
-* [Roody:2d](https://store.steampowered.com/app/2345220/Roody2d/)
-* [Sand:box](https://store.steampowered.com/app/2179380/Sandbox/)
 * [Scalatron](http://scalatron.github.io/)
 * [Screeps](https://screeps.com/)
 * [Selfless Heroes](https://store.steampowered.com/app/1273450/Selfless_Heroes/)
-* [[the Sequence]](https://store.steampowered.com/app/454320/the_Sequence/)
 * [SIC-1](https://store.steampowered.com/app/2124440/SIC1/)
 * [Silicon Zeroes](http://pleasingfungus.com/Silicon%20Zeroes/)
 * [Stone Story RPG](https://stonestoryrpg.com/)
