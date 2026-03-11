@@ -127,12 +127,12 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Robo Instructus*](https://www.roboinstruct.us/) | Automate a salvage robot using a simple high-level programming language and master said language just as you master your robot. |
 | [*Robocode*](https://robocode.sourceforge.io/) | Revisiting the classing robot tank formula of old, with duels, all-against-all battles and two opposing teams. Comes with an original, fully implemented original based on Java and a newer work in progress based on a client/server architecture allowing many languages. |
 | [*Robocoder - Dwarf Mountain*](https://store.steampowered.com/app/2212850/Robocoder__Dwarf_Mountain/) | Operate your discovery droid Mar10 and solve logic- and physics-based puzzles in a handcrafted world. Apparently abandoned in early access. |
+| [*Rogue Bit*](https://roguebit.bigosaur.com/) | Assist a single bit that became sentient in escaping from an 8-bit computer to the outside world. |
+| [*Scalatron*](http://scalatron.github.io/) | Compete with other robots in a virtual arena for energy and survival using—you guessed it—Scala. Author alleges that "Scalatron may be the quickest and most entertaining way to become productive in Scala". |
+| [*Screeps*](https://screeps.com/) | Technically two separate games of the robot battler genre, *Screeps: Arena*, which has fast-paced 1v1 battle where matches are based on ratings, and *Screeps: World*, a slower-paced persistent MMO world with PvP and PvE features. The primary language for Screeps is JavaScript but transpilation and WASM enable a number of other languages, such as TypeScript and Python. |
+| [*Selfless Heroes*](https://selflessheroes.fr/) | Lead your heroes through the dungeon towards victory using high-level parallel programming. |
+| [*SIC-1*](https://thinkygames.com/games/sic-1/https://thinkygames.com/games/sic-1/) | Climb the corporate ladder (and leaderboards) by using an ISA with only *one* instruction. |
 
-* [Rogue Bit](https://store.steampowered.com/app/949790/Rogue_Bit/)
-* [Scalatron](http://scalatron.github.io/)
-* [Screeps](https://screeps.com/)
-* [Selfless Heroes](https://store.steampowered.com/app/1273450/Selfless_Heroes/)
-* [SIC-1](https://store.steampowered.com/app/2124440/SIC1/)
 * [Silicon Zeroes](http://pleasingfungus.com/Silicon%20Zeroes/)
 * [Stone Story RPG](https://stonestoryrpg.com/)
 * [Stormworks: Build and Rescue](http://mcro.org/stormworks)
