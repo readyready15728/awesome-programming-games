@@ -132,12 +132,12 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Screeps*](https://screeps.com/) | Technically two separate games of the robot battler genre, *Screeps: Arena*, which has fast-paced 1v1 battle where matches are based on ratings, and *Screeps: World*, a slower-paced persistent MMO world with PvP and PvE features. The primary language for Screeps is JavaScript but transpilation and WASM enable a number of other languages, such as TypeScript and Python. |
 | [*Selfless Heroes*](https://selflessheroes.fr/) | Lead your heroes through the dungeon towards victory using high-level parallel programming. |
 | [*SIC-1*](https://thinkygames.com/games/sic-1/https://thinkygames.com/games/sic-1/) | Climb the corporate ladder (and leaderboards) by using an ISA with only *one* instruction. |
+| [*Silicon Zeroes*](http://pleasingfungus.com/Silicon%20Zeroes/) | Travel back to the 60s and prevent the very first Silicon Valley startup from imploding by designing novel computing hardware from the ground up. |
+| [*Stone Story RPG*](https://stonestoryrpg.com/) | ASCII rt RPG with strategic combat and deep crafting system that includes automation with its own bespoke scripting language, Stonescript. |
+| [*Stormworks: Build and Rescue*](https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/) | Design, create and pilot your own air sea rescue service, including the use of Lua scripting for custom behavior. |
+| [*Super Markup Man*](https://www.roppychop.com/pc/markup-man/) | Learn HTML and CSS with a 2-D puzzle platformer. |
+| [*Swarm*](https://swarm-game.github.io/) | Terminal-based programming and crafting game where you gather resources to start with basic robots then create ever more sophisticated models. |
 
-* [Silicon Zeroes](http://pleasingfungus.com/Silicon%20Zeroes/)
-* [Stone Story RPG](https://stonestoryrpg.com/)
-* [Stormworks: Build and Rescue](http://mcro.org/stormworks)
-* [Super Markup Man](https://www.roppychop.com/pc/markup-man/)
-* [Swarm](https://swarm-game.github.io/)
 * [Swift Playgrounds](https://apps.apple.com/app/id1496833156)
 * [ToonTalk](http://www.toontalk.com/)
 * [trAInsported](http://trainsportedgame.no-ip.org/)
