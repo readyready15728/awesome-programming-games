@@ -137,13 +137,13 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Stormworks: Build and Rescue*](https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/) | Design, create and pilot your own air sea rescue service, including the use of Lua scripting for custom behavior. |
 | [*Super Markup Man*](https://www.roppychop.com/pc/markup-man/) | Learn HTML and CSS with a 2-D puzzle platformer. |
 | [*Swarm*](https://swarm-game.github.io/) | Terminal-based programming and crafting game where you gather resources to start with basic robots then create ever more sophisticated models. |
+| [*Swift Playgrounds*](https://apps.apple.com/app/id1496833156) | Apple's official free app for learning Swift on Mas OS devices, requiring no prior experience. |
+| [*ToonTalk*](http://www.toontalk.com/) | Visual programming environment intended for use by children, with constructs based on familiar everyday objects, yet apparently one of the few implementations of [concurrent constraint logic programming](https://en.wikipedia.org/wiki/Concurrent_constraint_logic_programming). Includes a legacy desktop version and a modernized web-based version. |
+| [*trAInsported*](https://github.com/Germanunkol/trAInsported) | "The near future: Trains are no longer controlled by humans. Instead, artificial intelligence is used to handle traffic. Program the best AI, beat challenges on various maps and watch it fight other AIs in live, online matches!" Online server unfortunately no longer available. |
+| [*Turing Complete*](https://turingcomplete.game/) | Like a gamified version of [*The Elements of Computing*](https://www.nand2tetris.org/) by Noam Nisan and Shimon Schocken, or at least the first half or so thereof. Covers the universal NAND gate all the way up to assembly through puzzles at progressively higher levels of abstraction. |
+| [*Virtual Circuit Board*](https://www.virtualcircuitboard.com/) | Sandbox-only, drawing based digital logic simulator which requires at least basic prior knowledge of the subject matter. Includes the ability to define custom assembly instructions. |
 
-* [Swift Playgrounds](https://apps.apple.com/app/id1496833156)
-* [ToonTalk](http://www.toontalk.com/)
-* [trAInsported](http://trainsportedgame.no-ip.org/)
-* [Turing Complete](https://turingcomplete.game/)
 * [TwilioQuest](https://www.twilio.com/quest)
-* [Virtual Circuit Board](https://www.virtualcircuitboard.com/)
 * [Uplink](https://store.steampowered.com/app/1510/Uplink/)
 * [while True: learn()](https://luden.io/wtl/)
 
