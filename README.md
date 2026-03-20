@@ -133,7 +133,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Selfless Heroes*](https://selflessheroes.fr/) | Lead your heroes through the dungeon towards victory using high-level parallel programming. |
 | [*SIC-1*](https://thinkygames.com/games/sic-1/https://thinkygames.com/games/sic-1/) | Climb the corporate ladder (and leaderboards) by using an ISA with only *one* instruction. |
 | [*Silicon Zeroes*](http://pleasingfungus.com/Silicon%20Zeroes/) | Travel back to the 60s and prevent the very first Silicon Valley startup from imploding by designing novel computing hardware from the ground up. |
-| [*Stone Story RPG*](https://stonestoryrpg.com/) | ASCII rt RPG with strategic combat and deep crafting system that includes automation with its own bespoke scripting language, Stonescript. |
+| [*Stone Story RPG*](https://stonestoryrpg.com/) | ASCII art RPG with strategic combat and deep crafting system that includes automation with its own bespoke scripting language, Stonescript. |
 | [*Stormworks: Build and Rescue*](https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/) | Design, create and pilot your own air sea rescue service, including the use of Lua scripting for custom behavior. |
 | [*Super Markup Man*](https://www.roppychop.com/pc/markup-man/) | Learn HTML and CSS with a 2-D puzzle platformer. |
 | [*Swarm*](https://swarm-game.github.io/) | Terminal-based programming and crafting game where you gather resources to start with basic robots then create ever more sophisticated models. |
