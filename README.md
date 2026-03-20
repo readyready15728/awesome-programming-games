@@ -143,7 +143,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Turing Complete*](https://turingcomplete.game/) | Like a gamified version of [*The Elements of Computing*](https://www.nand2tetris.org/) by Noam Nisan and Shimon Schocken, or at least the first half or so thereof. Covers the universal NAND gate all the way up to assembly through puzzles at progressively higher levels of abstraction. |
 | [*Virtual Circuit Board*](https://www.virtualcircuitboard.com/) | Sandbox-only, drawing based digital logic simulator which requires at least basic prior knowledge of the subject matter. Includes the ability to define custom assembly instructions. |
 
-* [TwilioQuest](https://www.twilio.com/quest)
 * [Uplink](https://store.steampowered.com/app/1510/Uplink/)
 * [while True: learn()](https://luden.io/wtl/)
 
