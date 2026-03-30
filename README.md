@@ -236,6 +236,7 @@ thread](https://www.reddit.com/r/HowToHack/comments/4qxhjn/21_hacking_sites_ctfs
 * [Programming Game](https://programming-game.com/) - A realtime survival MMORPG played via websockets. There's a super simple in browser [demo](https://programming-game.com/demo) that showcases how to play.
 * [pwnable.kr](http://pwnable.kr)
 * [pwnable.tw](https://pwnable.tw/)
+* [radarcontrol.io](https://radarcontrol.io/) - Air traffic control game where players write Javascript to automate traffic management in 170+ airspaces. Control aircraft with a scripting API in real airspaces, or a manual text command mode for non-programmers on 300+ real airports.
 * [Regex Crossword](https://regexcrossword.com/)
 * [RingZer0 Team Online CTF](https://ringzer0ctf.com/)
 * [Robot Rumble](https://robotrumble.org/)
