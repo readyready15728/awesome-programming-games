@@ -192,6 +192,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 * [CSS Diner](http://flukeout.github.io/)
 * [CTF Learn](https://ctflearn.com/)
 * [CheckiO](https://checkio.org/)
+* [Code4win](https://code4win.com/)
 * [Code Games](http://codegames.io)
 * [Code Monkey](https://www.codemonkey.com/)
 * [Code.org](https://code.org/)
