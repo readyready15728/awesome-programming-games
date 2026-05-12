@@ -144,8 +144,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*trAInsported*](https://github.com/Germanunkol/trAInsported) | "The near future: Trains are no longer controlled by humans. Instead, artificial intelligence is used to handle traffic. Program the best AI, beat challenges on various maps and watch it fight other AIs in live, online matches!" Online server unfortunately no longer available. |
 | [*Turing Complete*](https://turingcomplete.game/) | Like a gamified version of [*The Elements of Computing*](https://www.nand2tetris.org/) by Noam Nisan and Shimon Schocken, or at least the first half or so thereof. Covers the universal NAND gate all the way up to assembly through puzzles at progressively higher levels of abstraction. |
 | [*Virtual Circuit Board*](https://www.virtualcircuitboard.com/) | Sandbox-only, drawing based digital logic simulator which requires at least basic prior knowledge of the subject matter. Includes the ability to define custom assembly instructions. |
-
-* [Uplink](https://store.steampowered.com/app/1510/Uplink/)
 * [while True: learn()](https://luden.io/wtl/)
 
 ## Recent Games, Mobile
