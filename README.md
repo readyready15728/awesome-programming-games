@@ -148,21 +148,14 @@ under the "programming" rubric. I have now excluded a number of titles such as
 
 ## Recent Games, Mobile
 
-* [Automaton](https://play.google.com/store/apps/details?id=com.JeremyFriesen.AutomationInc) (Android only)
-* Gladiabots
-  * [Android](https://play.google.com/store/apps/details?id=com.GFX47.Gladiabots)
-  * [iOS](https://apps.apple.com/app/gladiabots/id1469623947)
-* Human Resource Machine
-  * [Android](https://play.google.com/store/apps/details?id=com.tomorrowcorporation.humanresourcemachine)
-  * [iOS](https://apps.apple.com/us/app/human-resource-machine/id1005098334)
-* LightBot
-  * [Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbot)
-  * [iOS](https://apps.apple.com/us/app/light-bot/id657638474)
-  * [Amazon](https://www.amazon.com/Lightbot-Inc-Programming-Puzzles/dp/B00LVDC27Y)
-* LightBot Jr
-  * [Android](https://play.google.com/store/apps/details?id=com.lightbot.lightbotjr)
-  * [iOS](https://apps.apple.com/us/app/lightbot-jr-coding-puzzles-for-ages-4/id858640629)
-  * [Amazon](https://www.amazon.com/Lightbot-Jr-Coding-Puzzles-Ages/dp/B00LW65HN6)
+| Title | Description and Notes |
+|-------|-----------------------|
+| *Automaton* ([Android](https://play.google.com/store/apps/details?id=com.JeremyFriesen.AutomationInc)) | Program the titular android, named Auto, to work in a factory using a C-like syntax. |
+| *Gladiabots* ([Android](https://play.google.com/store/apps/details?id=com.GFX47.Gladiabots) / [iOS](https://apps.apple.com/app/gladiabots/id1469623947)) | See above for description. |
+| *Human Resource Machine* ([Android](https://play.google.com/store/apps/details?id=com.tomorrowcorporation.humanresourcemachine) / [iOS](https://apps.apple.com/us/app/human-resource-machine/id1005098334)) | See above for description. |
+| *LightBot* ([iOS](https://apps.apple.com/us/app/light-bot/id657638474)) | Algorithmically light up floor tiles with a robot in a game that teaches procedures, loops and conditionals. |
+| *LightBot Jr* ([iOS](https://apps.apple.com/us/app/lightbot-jr-coding-puzzles-for-ages-4/id858640629)) | Similar to *LightBot* but a bit easier and targeted at a younger audience. |
+
 * [Make It True](https://play.google.com/store/apps/details?id=com.ViacheslavRud.Circuit) (Android only)
 * [Perfect Paths](http://perfectpaths.hyperbolicmagnetism.com/) (iOS only)
 * [Rec Room](https://apps.apple.com/us/app/rec-room/id1450306065) (iOS only)
