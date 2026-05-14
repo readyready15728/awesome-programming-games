@@ -149,9 +149,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 ## Recent Games, Mobile
 
 * [Automaton](https://play.google.com/store/apps/details?id=com.JeremyFriesen.AutomationInc) (Android only)
-* Cyber Sentinel
-  * [Android](https://play.google.com/store/apps/details?id=pl.mindhelix.cybersentinel)
-  * [iOS](https://apps.apple.com/us/app/cyber-sentinel/id1199120752)
 * Gladiabots
   * [Android](https://play.google.com/store/apps/details?id=com.GFX47.Gladiabots)
   * [iOS](https://apps.apple.com/app/gladiabots/id1469623947)
