@@ -156,7 +156,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | *LightBot* ([iOS](https://apps.apple.com/us/app/light-bot/id657638474)) | Algorithmically light up floor tiles with a robot in a game that teaches procedures, loops and conditionals. |
 | *LightBot Jr* ([iOS](https://apps.apple.com/us/app/lightbot-jr-coding-puzzles-for-ages-4/id858640629)) | Similar to *LightBot* but a bit easier and targeted at a younger audience. |
 
-* [Perfect Paths](http://perfectpaths.hyperbolicmagnetism.com/) (iOS only)
 * [Rec Room](https://apps.apple.com/us/app/rec-room/id1450306065) (iOS only)
 * RoboZZle
   * [Android](https://play.google.com/store/apps/details?id=com.team242.robozzle)
