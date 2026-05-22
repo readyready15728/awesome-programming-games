@@ -155,10 +155,9 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | *Human Resource Machine* ([Android](https://play.google.com/store/apps/details?id=com.tomorrowcorporation.humanresourcemachine) / [iOS](https://apps.apple.com/us/app/human-resource-machine/id1005098334)) | See above for description. |
 | *LightBot* ([iOS](https://apps.apple.com/us/app/light-bot/id657638474)) | Algorithmically light up floor tiles with a robot in a game that teaches procedures, loops and conditionals. |
 | *LightBot Jr* ([iOS](https://apps.apple.com/us/app/lightbot-jr-coding-puzzles-for-ages-4/id858640629)) | Similar to *LightBot* but a bit easier and targeted at a younger audience. |
+| *SpriteBox Coding* ([iOS](https://apps.apple.com/us/app/light-bot/id1270538471)) | From the makers of *LightBot* and *LightBot Jr*, with the novel approach of starting with a visual programming language that gives way to real Swift code as you progress. |
 
-* SpriteBot
-  * [Android](https://play.google.com/store/apps/details?id=com.spritebox.coding)
-  * [iOS](https://apps.apple.com/us/app/light-bot/id1270538471)
+
 * [Swift Playgrounds](https://apps.apple.com/app/id908519492) (iPad only)
 * [TIS-100P](https://apps.apple.com/kr/app/tis-100p/id1070879899) (iOS only)
 * [7 Billion Humans](https://apps.apple.com/us/app/7-billion-humans/id1393923918) (iOS only)
