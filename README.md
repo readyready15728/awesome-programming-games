@@ -156,11 +156,9 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | *LightBot* ([iOS](https://apps.apple.com/us/app/light-bot/id657638474)) | Algorithmically light up floor tiles with a robot in a game that teaches procedures, loops and conditionals. |
 | *LightBot Jr* ([iOS](https://apps.apple.com/us/app/lightbot-jr-coding-puzzles-for-ages-4/id858640629)) | Similar to *LightBot* but a bit easier and targeted at a younger audience. |
 | *SpriteBox Coding* ([iOS](https://apps.apple.com/us/app/light-bot/id1270538471)) | From the makers of *LightBot* and *LightBot Jr*, with the novel approach of starting with a visual programming language that gives way to real Swift code as you progress. |
-
-
-* [Swift Playgrounds](https://apps.apple.com/app/id908519492) (iPad only)
-* [TIS-100P](https://apps.apple.com/kr/app/tis-100p/id1070879899) (iOS only)
-* [7 Billion Humans](https://apps.apple.com/us/app/7-billion-humans/id1393923918) (iOS only)
+| *Swift Playgrounds* ([iPad](https://apps.apple.com/app/id908519492)) | An official coding education app from Apple that teaches the use of Swift and SwiftUI in an interactive 3-D world. |
+| *TIS-100P* ([iPad](https://apps.apple.com/app/tis-100p/id1070879899)) | Port of the aforementioned *TIS-100* to the iPad. |
+| *7 Billion Humans* ([iOS](https://apps.apple.com/us/app/7-billion-humans/id1393923918)) | Port of the aforementioned *7 Billion Humans* to iOS devices. |
 
 ## Recent Games, Browser- or Server-Based
 
