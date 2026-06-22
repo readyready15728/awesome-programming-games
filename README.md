@@ -169,6 +169,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 * [Battlecode](https://www.battlecode.org/)
 * [Blockly](https://blockly.games/)
 * [Carnival](https://codepen.io/una/pen/NxZaNr)
+* [claude-ball](https://claude-ball.fly.dev) - Coach a 2D soccer team by describing the tactics in plain English; your AI coding agent writes the bot's brain in TypeScript (a CLAUDE.md keeps it to coding, never strategy), and you climb a deterministic ladder against built-in and community bots. Open source.
 * [CodeCraft](http://www.codecraftgame.org/)
 * [CSS Diner](http://flukeout.github.io/)
 * [CTF Learn](https://ctflearn.com/)
