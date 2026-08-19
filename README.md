@@ -166,8 +166,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 |-------|-----------------------|
 | [*Artifacts MMO*](https://artifactsmmo.com/) | MMORPG where you control your characters using a language-neutral JSON API. |
 | [*Bitburner*](https://github.com/bitburner-official/bitburner-src) | Cyberpunk incremental game where the player writes asynchronous JavaScript code to profit and progress through a variety of different means, hacking of course being a very important one. |
+| [*BOX-256*](http://box-256.com/) | Write in a very minimalistic assembly language in order to pass graphical display tests. |
 
-* [BOX-256](http://box-256.com/)
 * [Battlecode](https://www.battlecode.org/)
 * [Blockly](https://blockly.games/)
 * [Carnival](https://codepen.io/una/pen/NxZaNr)
