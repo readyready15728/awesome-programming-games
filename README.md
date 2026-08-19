@@ -162,7 +162,10 @@ under the "programming" rubric. I have now excluded a number of titles such as
 
 ## Recent Games, Browser- or Server-Based
 
-* [AI Cup](https://russianaicup.ru/)
+
+| Title | Description and Notes |
+|-------|-----------------------|
+| [*AI Cup*](https://russianaicup.ru/)
 * [Artifacts MMO](https://artifactsmmo.com/) - Artifacts is a Sandbox MMORPG where you can use any programming language to control your characters with our API.
 * [Bitburner](https://danielyxie.github.io/bitburner/)
 * [BOX-256](http://box-256.com/)
