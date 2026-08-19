@@ -162,7 +162,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 
 ## Recent Games, Browser- or Server-Based
 
-
 | Title | Description and Notes |
 |-------|-----------------------|
 | [*Artifacts MMO*](https://artifactsmmo.com/) | MMORPG where you control your characters using a language-neutral JSON API. |
