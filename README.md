@@ -165,8 +165,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 
 | Title | Description and Notes |
 |-------|-----------------------|
+| [*Artifacts MMO*](https://artifactsmmo.com/) | MMORPG where you control your characters using a language-neutral JSON API. |
 
-* [Artifacts MMO](https://artifactsmmo.com/) - Artifacts is a Sandbox MMORPG where you can use any programming language to control your characters with our API.
 * [Bitburner](https://danielyxie.github.io/bitburner/)
 * [BOX-256](http://box-256.com/)
 * [Battlecode](https://www.battlecode.org/)
