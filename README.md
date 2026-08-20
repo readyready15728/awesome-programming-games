@@ -181,6 +181,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 * [Code.org](https://code.org/)
 * [CodeCombat](https://codecombat.com/)
 <!-- Codefinity? -->
+* [CodeCityApp](https://codecityapp.com) - Solve coding challenges gated by passing tests to grow a persistent city, with XP, streaks and a built-in AI mentor. Free tier available.
 * [Codingame](https://www.codingame.com/)
 * [corewars8086_js](https://shooshx.github.io/corewars8086_js/)
 * [Cube Composer](https://david-peter.de/cube-composer/)
