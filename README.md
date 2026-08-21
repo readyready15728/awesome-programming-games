@@ -169,8 +169,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*BOX-256*](http://box-256.com/) | Write in a very minimalistic assembly language in order to pass graphical display tests. |
 | [*Battlecode*](https://www.battlecode.org/) | "MIT's premier programming competition"! An annual compeition held each January where teams of programmed virtual robots face off 1v1 with the possibility of cash prizes. (See website for further details and conditions.) |
 | [*Blockly*](https://blockly.games/) | Online educational games using the visual programming engine underlying the famous Scratch language (since version 3.0). |
+| [*CSS Diner*](http://flukeout.github.io/) | Learn CSS selectors by clearing items from a table at a diner. |
 
-* [CSS Diner](http://flukeout.github.io/)
 * [CTF Learn](https://ctflearn.com/)
 * [CheckiO](https://checkio.org/)
 * [CODE4WIN](https://code4win.com/)
