@@ -171,7 +171,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Blockly*](https://blockly.games/) | Online educational games using the visual programming engine underlying the famous Scratch language (since version 3.0). |
 | [*CSS Diner*](http://flukeout.github.io/) | Learn CSS selectors by clearing items from a table at a diner. |
 
-* [CTF Learn](https://ctflearn.com/)
 * [CheckiO](https://checkio.org/)
 * [CODE4WIN](https://code4win.com/)
 * [Code Games](http://codegames.io)
