@@ -170,8 +170,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Battlecode*](https://www.battlecode.org/) | "MIT's premier programming competition"! An annual compeition held each January where teams of programmed virtual robots face off 1v1 with the possibility of cash prizes. (See website for further details and conditions.) |
 | [*Blockly*](https://blockly.games/) | Online educational games using the visual programming engine underlying the famous Scratch language (since version 3.0). |
 | [*CSS Diner*](http://flukeout.github.io/) | Learn CSS selectors by clearing items from a table at a diner. |
+| [*CheckiO*](https://checkio.org/) | Hop from one island to another while playing coding games in Python or TypeScript to advance your journey. |
 
-* [CheckiO](https://checkio.org/)
 * [CODE4WIN](https://code4win.com/)
 * [Code Games](http://codegames.io)
 * [Code Monkey](https://www.codemonkey.com/)
