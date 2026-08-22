@@ -171,8 +171,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Blockly*](https://blockly.games/) | Online educational games using the visual programming engine underlying the famous Scratch language (since version 3.0). |
 | [*CSS Diner*](http://flukeout.github.io/) | Learn CSS selectors by clearing items from a table at a diner. |
 | [*CheckiO*](https://checkio.org/) | Hop from one island to another while playing coding games in Python or TypeScript to advance your journey. |
+| [*CODE4WIN*](https://code4win.com/) | Browser-based programming game platform where you solve puzzles using JavaScript and, if you desire, optimize your solutions in order to climb the leaderboard. Currently has only one challenge, the elevator game, at the time of this commit. Not to be confused with the C-based computer science education site named [codeforwin.*org*](https://codeforwin.org/). |
 
-* [CODE4WIN](https://code4win.com/)
 * [Code Games](http://codegames.io)
 * [Code Monkey](https://www.codemonkey.com/)
 * [Code.org](https://code.org/)
