@@ -173,8 +173,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*CheckiO*](https://checkio.org/) | Hop from one island to another while playing coding games in Python or TypeScript to advance your journey. |
 | [*CODE4WIN*](https://code4win.com/) | Browser-based programming game platform where you solve puzzles using JavaScript and, if you desire, optimize your solutions in order to climb the leaderboard. Currently has only one challenge, the elevator game, at the time of this commit. Not to be confused with the C-based computer science education site named [codeforwin.*org*](https://codeforwin.org/). |
 | [*Code Games*](http://codegames.io) | Commercial offering geared towards learning about programming and cloud collaboration through quick two-hour tournaments. Your goal is to shoot down as many enemy spaceships as possible while preserving your own. The game uses what appears to be a custom language influenced by JavaScript and Ruby. |
+| [*CodeMonkey*](https://www.codemonkey.com/) | Award-winning educational game platform teaching CoffeeScript and Python to a K-8 student audience. |
 
-* [Code Monkey](https://www.codemonkey.com/)
 * [Code.org](https://code.org/)
 * [CodeCombat](https://codecombat.com/)
 <!-- Codefinity? -->
