@@ -2,7 +2,7 @@
 
 ## An ultra mega giga curated list of programming games
 
-(N.b.: Only *readily playable* games will be included here. This means that
+N.b.: Only *readily playable* games will be included here. This means that
 original code is available (as well as a separate emulator if needed), or one
 or more reimplementations, or both. Examples such as
 [Struggle](https://pages.lip6.fr/Christian.Queinnec/WWW/Concurrency.html) are
