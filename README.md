@@ -17,6 +17,15 @@ game." Currently, a number of entries included in the `README.md` do not fit
 this criterion and will eventually be moved to a separate
 `awesome-coding-challenges` `README.md`.
 
+In addition, I will not be accepting any submissions directly related to large
+language models, also known as LLMs. AI up to and including deep learning
+models geared towards specific purposes such as speech recognition and
+computer vision is great and will continue to be highly valuable in the
+future. LLMs on the other hand are extremely bloated, failed attempts at
+artificial *general* intelligence—crappy replacement humans with many, many
+negative effects on society. I now use all of them as little as possible and
+do not support them. I hope the bubble bursts soon.
+
 ## Classic Games (in Order of Release)
 
 | Title | Description and Notes |
