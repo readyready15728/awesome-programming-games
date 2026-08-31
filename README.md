@@ -184,7 +184,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Code Games*](http://codegames.io) | Commercial offering geared towards learning about programming and cloud collaboration through quick two-hour tournaments. Your goal is to shoot down as many enemy spaceships as possible while preserving your own. The game uses what appears to be a custom language influenced by JavaScript and Ruby. |
 | [*CodeMonkey*](https://www.codemonkey.com/) | Award-winning educational game platform teaching CoffeeScript and Python to a K-8 student audience. |
 
-<!-- Codefinity? -->
 * [Codingame](https://www.codingame.com/)
 * [corewars8086_js](https://shooshx.github.io/corewars8086_js/)
 * [Cube Composer](https://david-peter.de/cube-composer/)
