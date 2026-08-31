@@ -183,7 +183,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*CODE4WIN*](https://code4win.com/) | Browser-based programming game platform where you solve puzzles using JavaScript and, if you desire, optimize your solutions in order to climb the leaderboard. Currently has only one challenge, the elevator game, at the time of this commit. Not to be confused with the C-based computer science education site named [codeforwin.*org*](https://codeforwin.org/). |
 | [*Code Games*](http://codegames.io) | Commercial offering geared towards learning about programming and cloud collaboration through quick two-hour tournaments. Your goal is to shoot down as many enemy spaceships as possible while preserving your own. The game uses what appears to be a custom language influenced by JavaScript and Ruby. |
 | [*CodeMonkey*](https://www.codemonkey.com/) | Award-winning educational game platform teaching CoffeeScript and Python to a K-8 student audience. |
-| [*CodinGame*](https://www.codingame.com/) | Site with numerous types of gamified puzzles including timed challenges and code golf challenges. Play and even maybe get hired with 25 programming languages, including Python, JavaScript, TypeScript, Java and C++. |
+| [*CodinGame*](https://www.codingame.com/) | Site with numerous gamified puzzles including timed challenges and code golf challenges. Play and even maybe get hired with 25 programming languages, including Python, JavaScript, TypeScript, Java and C++. |
 | [*corewars8086_js*](https://shooshx.github.io/corewars8086_js/) | *Core War* in a browser with full-featured GUI editor, assembler and debugger. |
 | [*Cube Composer*](https://david-peter.de/cube-composer/) | Stack colored cubes using functional programming principles. |
 
