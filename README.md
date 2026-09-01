@@ -187,8 +187,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*corewars8086_js*](https://shooshx.github.io/corewars8086_js/) | *Core War* in a browser with full-featured GUI editor, assembler and debugger. |
 | [*Cube Composer*](https://david-peter.de/cube-composer/) | Stack colored cubes using functional programming principles. |
 | [*Elevator Saga*](http://play.elevatorsaga.com/) | A game where, fittingly, the goal is to deliver elevator passengers in a timely manner using JavaScript. |
+| [*Flexbox Defense*](http://www.flexboxdefense.com/) | A tower defense game where you have to position your towers using the Flexbox layout method of CSS. |
 
-* [Flexbox Defense](http://www.flexboxdefense.com/)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
 * [generals.io](http://generals.io/)
