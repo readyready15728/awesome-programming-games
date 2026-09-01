@@ -186,8 +186,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*CodinGame*](https://www.codingame.com/) | Site with numerous gamified puzzles including timed challenges and code golf challenges. Play and even maybe get hired with 25 programming languages, including Python, JavaScript, TypeScript, Java and C++. |
 | [*corewars8086_js*](https://shooshx.github.io/corewars8086_js/) | *Core War* in a browser with full-featured GUI editor, assembler and debugger. |
 | [*Cube Composer*](https://david-peter.de/cube-composer/) | Stack colored cubes using functional programming principles. |
+| [*Elevator Saga*](http://play.elevatorsaga.com/) | A game where, fittingly, the goal is to deliver elevator passengers in a timely manner using JavaScript. |
 
-* [Elevator Saga](http://play.elevatorsaga.com/)
 * [Flexbox Defense](http://www.flexboxdefense.com/)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
