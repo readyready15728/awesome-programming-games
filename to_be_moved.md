@@ -1,6 +1,7 @@
 * [CTF Learn](https://ctflearn.com/)
 * [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
 * [Google Gruyère](https://google-gruyere.appspot.com/)
+* [HBH (aka Hellbound Hackers)](https://www.hellboundhackers.org/)
 * [HackThisSite](https://www.hackthissite.org/)
 * [Hacker 101 CTF](https://ctf.hacker101.com/)
 * [exploit.education](https://exploit.education/)
