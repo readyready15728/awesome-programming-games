@@ -195,8 +195,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Grid Critters*](https://gridcritters.com/) | Short gamified course on CSS Grid spanning ten days. Costs 89 USD for lifetime access at the time of writing. |
 | [*Grid Garden*](https://cssgridgarden.com/) | Use CSS grid to grow and take care of a garden full of yummy carrots. |
 | [*Leek Wars*](https://leekwars.com/) | Be a farmer and send your leeks into the ~~bloody~~ oniony fray to become the new emperor or empress. Runs on LeekScript, a custom imperative and object-oriented language that is weakly typed and inspired by JavaScript and PHP. |
+| [*Manufactoria*](http://pleasingfungus.com/Manufactoria/) | A game about "putting robots \[more specifically a kind of finite automata\] in their place". Old Flash game, but still appears to work on Kongregate through Ruffle. |
 
-* [Manufactoria](http://pleasingfungus.com/Manufactoria/)
 * [Microcorruption](https://microcorruption.com/)
 * [Much Assembly Required](https://muchassemblyrequired.com/)
 * [NandGame](http://nandgame.com/)
