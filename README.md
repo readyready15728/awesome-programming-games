@@ -120,6 +120,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Learn Git Branching*](https://learngitbranching.js.org/) | Interactive Git tutorial from basic commands to increasingly arcane ones. |
 | [*Logic World*](https://logicworld.net/) | Think Minecraft, but exclusively for digital logic. Includes multiplayer options. |
 | [*LogicBots*](https://store.steampowered.com/app/290020/LogicBots/) | Design and build robots in a 3-D world and combine logic gates to control their behavior and meet various objectives. |
+| [*Manufactoria 2022*](https://store.steampowered.com/app/1276070/Manufactoria_2022/) | A game about creating robotic finite automata that pass increasingly difficult tests, a greatly expanded remake of the original Flash game *Manufactoria*. (See below.) |
 | [*Marvellous Inc.*](https://marvellous.itch.io/marvellous-inc) | Get hired by a sketchy international conglomerate and uncover its secrets as you write assembly code to solve increasingly complex tasks. |
 | [*Mechanica*](https://store.steampowered.com/app/1226990/Mechanica/) | Automate manufacturing and base defenses using a visual programming language in an inhospitable desert wasteland. |
 | [*MHRD*](https://store.steampowered.com/app/576030/MHRD/) | Work for the startup company "Microhard" and build circuitry with a hardware description language starting from basic logic gates and leading all the way up to a full-fledged CPU.   |
