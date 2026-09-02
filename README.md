@@ -195,7 +195,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Grid Critters*](https://gridcritters.com/) | Short gamified course on CSS Grid spanning ten days. Costs 89 USD for lifetime access at the time of writing. |
 | [*Grid Garden*](https://cssgridgarden.com/) | Use CSS grid to grow and take care of a garden full of yummy carrots. |
 
-* [JavaScript Fight Club](https://jsfight.club/)
 * [Komodo Consulting CTF](http://ctf.komodosec.com/)
 * [Leek Wars](https://leekwars.com/)
 * [LogicBox](https://logicbox.jahooma.com/)
