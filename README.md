@@ -195,7 +195,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Grid Critters*](https://gridcritters.com/) | Short gamified course on CSS Grid spanning ten days. Costs 89 USD for lifetime access at the time of writing. |
 | [*Grid Garden*](https://cssgridgarden.com/) | Use CSS grid to grow and take care of a garden full of yummy carrots. |
 
-* [Hacker 101 CTF](https://ctf.hacker101.com/)
 * [Halite](https://halite.io/)
 * [Hellbound Hackers](https://www.hellboundhackers.org/)
 * [Imagegram](https://zaratustra.itch.io/imagegram)
