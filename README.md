@@ -192,8 +192,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Flexbox Zombies*](https://mastery.games/p/flexbox-zombies) | Mow down an onslaught of horrendous zombies with nothing more than a crossbow and, of course, Flexbox. |
 | [*generals.bot*](https://www.generals.bot/) | Build bots to dominate the fast-paced game of defense and conquest [*generals.io*](https://generals.io/). |
 | [*Graphomata*](https://graphomata.com/) | See above for description. |
+| [*Grid Critters*](https://gridcritters.com/) | Short gamified course on CSS Grid spanning ten days. Costs 89 USD for lifetime access at the time of writing. |
 
-* [Grid Critters](https://gridcritters.com/)
 * [Grid Garden](https://cssgridgarden.com/)
 * [Hack The Box](https://www.hackthebox.eu/)
 * [hackable.ca](https://hackable.ca/)
