@@ -190,8 +190,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Flexbox Defense*](http://www.flexboxdefense.com/) | A tower defense game where you have to position your towers using the Flexbox layout method of CSS. |
 | [*Flexbox Froggy*](http://flexboxfroggy.com/) | Help Froggy and his other frog friends land on color-matched lily pads using CSS Flexbox. |
 | [*Flexbox Zombies*](https://mastery.games/p/flexbox-zombies) | Mow down an onslaught of horrendous zombies with nothing more than a crossbow and, of course, Flexbox. |
+| [*generals.bot*](https://www.generals.bot/) | Build bots to dominate the fast-paced game of defense and conquest [*generals.io*](https://generals.io/). |
 
-* [generals.io](http://generals.io/)
 * [Graphomata](https://graphomata.com/)
 * [Grid Critters](https://gridcritters.com/)
 * [Grid Garden](https://cssgridgarden.com/)
