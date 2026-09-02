@@ -196,7 +196,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Grid Garden*](https://cssgridgarden.com/) | Use CSS grid to grow and take care of a garden full of yummy carrots. |
 | [*Leek Wars*](https://leekwars.com/) | Be a farmer and send your leeks into the ~~bloody~~ oniony fray to become the new emperor or empress. Runs on LeekScript, a custom imperative and object-oriented language that is weakly typed and inspired by JavaScript and PHP. |
 
-* [LogicBox](https://logicbox.jahooma.com/)
 * [Manufactoria](http://pleasingfungus.com/Manufactoria/)
 * [Microcorruption](https://microcorruption.com/)
 * [Much Assembly Required](https://muchassemblyrequired.com/)
