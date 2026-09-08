@@ -204,7 +204,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Programming Game*](https://programming-game.com/) | Real-time survival MMORPG where player characters are of course programmed. Includes a demo demonstrating how to play. The game is geared towards TypeScript and can be played entirely in the browser or through a locally developed client that imports and uses the NPM module [programming-game](https://www.npmjs.com/package/programming-game); however, the server API itself is language-agnostic and players report using other languages such as Python for client code. [Documentation](https://programming-game.com/docs/getting-started) is currently a bit sparse but a [Discord server](https://discord.com/invite/xdzwSV4aqZ) exists to help aspring players. |
 
 * [pwnable.kr](http://pwnable.kr)
-* [pwnable.tw](https://pwnable.tw/)
 * [radarcontrol.io](https://radarcontrol.io/) - Air traffic control game where players write Javascript to automate traffic management in 170+ airspaces. Control aircraft with a scripting API in real airspaces, or a manual text command mode for non-programmers on 300+ real airports.
 * [Regex Crossword](https://regexcrossword.com/)
 * [RingZer0 Team Online CTF](https://ringzer0ctf.com/)
