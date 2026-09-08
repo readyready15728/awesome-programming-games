@@ -205,7 +205,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Programming Game*](https://programming-game.com/) | Real time survival MMORPG where player characters are of course programmed. Includes a demo demonstrating how to play. Can be played entirely in the browser or through a locally developed client that imports and uses the NPM module [programming-game](https://www.npmjs.com/package/programming-game). |
 | [*radarcontrol.io*](https://radarcontrol.io/) | Air traffic control game that can be controlled either manually or (of course) programmed with JavaScript. Direct aircraft both in the sky and on the ground with 170+ airspaces and 300+ airports from throughout the world. |
 | [*Regex Crossword*](https://regexcrossword.com/) | Crossword puzzles featuring regex elements instead of only just literal characters. Starts easy and becomes mind-bendingly difficult with player-contributed puzzles. |
-| [*regexle*] | Another regex crossword offering, this time with hundreds of puzzles in a hexagonal grid format. |
+| [*regexle*](https://regexle.com/) | Another regex crossword offering, this time with hundreds of puzzles in a hexagonal grid format. |
 
 * [RingZer0 Team Online CTF](https://ringzer0ctf.com/)
 * [Robot Rumble](https://robotrumble.org/)
