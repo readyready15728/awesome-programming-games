@@ -209,8 +209,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*regexle*](https://regexle.com/) | Another regex crossword offering, this time with hundreds of puzzles in a hexagonal grid format. |
 | [*RoboZZle](https://www.robozzle.com/beta/) | Program robots to collect all items from a tri-colored 2-D field. Was initially written for Microsoft Silverlight but now has a JavaScript beta. |
 | [*Ruby Warrior*](https://www.bloc.io/ruby-warrior) | Learn Ruby in the form of an RPG with character graphics reminiscent of games like [*NetHack*](https://www.nethack.org/) and [*Dungeon Crawl Stone Soup*](https://crawl.develz.org/). |
+| * [Schemaverse](https://github.com/Abstrct/Schemaverse) | Space strategy game where the player either enters SQL commands (more specifically Postgres PL/pgSQL) to order units or writes an AI to carry out those commands itself. Used to be available as a website and is now only available as a GitHub repository. Author advises you that the setup may be very insecure, as it was made to learn about Postgres, and not to run it on anything important. |
 
-* [Schemaverse](https://schemaverse.com/)
 * [Service Workies](https://serviceworkies.com/)
 * [ShortcutFoo](https://www.shortcutfoo.com/)
 * [Smash the Stack](http://smashthestack.org/)
