@@ -202,8 +202,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Microcorruption*](https://microcorruption.com/) | Learn about memory corruption from basics using an online debugger for Texas Instruments' MSP430 16-bit microcontroller. Use assembly code to hack locking mechanisms in order to steal "[Cy Yombinator](https://www.ycombinator.com/)" bearer bonds worth billions. Included here because it is distinctly more gamified than other CTF challenges. |
 |[*NandGame*](http://nandgame.com/) | A game where you start from the humble NAND gate and build all the way to a more or less full-fledged processor. Inspired by the book and course [*nand2tetris*](https://www.nand2tetris.org/), or *From NAND to Tetris: Building a Modern Computer from First Principles*. |
 | [*Programming Game*](https://programming-game.com/) | Real time survival MMORPG where player characters are of course programmed. Includes a demo demonstrating how to play. Can be played entirely in the browser or through a locally developed client that imports and uses the NPM module [programming-game](https://www.npmjs.com/package/programming-game). |
+| * [*radarcontrol.io*](https://radarcontrol.io/) | Air traffic control game that can be controlled either manually or (of course) programmed with JavaScript. Direct aircraft both in the sky and on the ground with 170+ airspaces and 300+ airports from throughout the world. |
 
-* [radarcontrol.io](https://radarcontrol.io/) - Air traffic control game where players write Javascript to automate traffic management in 170+ airspaces. Control aircraft with a scripting API in real airspaces, or a manual text command mode for non-programmers on 300+ real airports.
 * [Regex Crossword](https://regexcrossword.com/)
 * [RingZer0 Team Online CTF](https://ringzer0ctf.com/)
 * [Robot Rumble](https://robotrumble.org/)
