@@ -207,6 +207,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*radarcontrol.io*](https://radarcontrol.io/) | Air traffic control game that can be controlled either manually or (of course) programmed with JavaScript. Direct aircraft both in the sky and on the ground with 170+ airspaces and 300+ airports from throughout the world. |
 | [*Regex Crossword*](https://regexcrossword.com/) | Crossword puzzles featuring regex elements instead of only just literal characters. Starts easy and becomes mind-bendingly difficult with player-contributed puzzles. |
 | [*regexle*](https://regexle.com/) | Another regex crossword offering, this time with hundreds of puzzles in a hexagonal grid format. |
+| [*RoboZZle](https://www.robozzle.com/beta/) | Program robots to collect all items from a tri-colored 2-D field. Was initially written for Microsoft Silverlight but now has a JavaScript beta. |
 
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior)
 * [Schemaverse](https://schemaverse.com/)
