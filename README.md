@@ -207,7 +207,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Regex Crossword*](https://regexcrossword.com/) | Crossword puzzles featuring regex elements instead of only just literal characters. Starts easy and becomes mind-bendingly difficult with player-contributed puzzles. |
 | [*regexle*](https://regexle.com/) | Another regex crossword offering, this time with hundreds of puzzles in a hexagonal grid format. |
 
-* [RingZer0 Team Online CTF](https://ringzer0ctf.com/)
 * [Robot Rumble](https://robotrumble.org/)
 * [RoboZZle](http://robozzle.com/)
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior)
