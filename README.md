@@ -213,7 +213,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Service Workies*](https://serviceworkies.com/) | Learn how to use service workers for progressive web apps (PWAs) as a service worker named Kolohe yourself and slay the dragons of PWA pitfalls (~~179 USD~~ **FREE**). |
 | [*SpaceTraders API*](https://spacetraders.io/) | Language-agnostic space trading game  using a RESTful API. Like [*Elite*](https://en.wikipedia.org/wiki/Elite_(video_game)) for mega-nerds but there are no pirates or Thargoids to worry about (yet). |
 
-* [Tic-Tac-Toe](https://codepen.io/alvaromontoro/pen/BexWOw)
 * [Tynker](https://www.tynker.com/)
 * [Untrusted](https://alexnisnevich.github.io/untrusted/)
 * [Vim Adventures](https://vim-adventures.com/) (n.b.: $25 for six months access to the full version)
