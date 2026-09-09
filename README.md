@@ -81,6 +81,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 
 | Title | Description and Notes |
 |---|---|
+| [*A=B*](https://store.steampowered.com/app/1720850/AB/) | "A programming puzzle game with only one instruction: `A=B`, which means replacing `A` with `B`." Unlike most minimalist approaches this one deals with string handling rather than any sort of assembly variant. |
 | [*Adventure Land*](https://adventure.land/) | Indie MMORPG with optional automation of tedious grinding by programming player characters with JavaScript. (Appears to be abandoned.) |
 | [*Algo Bot*](http://www.algo-bot.com/) | Rescue a colony ship's mission in space using a visual programming language. Users have claimed to experienced various difficulties including with a buggy Linux native version. |
 | [*AntMe!*](http://www.antme.net/) | Learn to program by automating computerized cartoon ants in C# or VB.NET! Much documentation appears to be only available in the original German. |
