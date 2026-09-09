@@ -212,8 +212,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Schemaverse*](https://github.com/Abstrct/Schemaverse) | Space strategy game where the player either enters SQL commands (more specifically Postgres PL/pgSQL) to order units or writes an AI to carry out those commands itself. Used to be available as a website and is now only available as a GitHub repository. Author advises you that the setup may be very insecure, as it was made to learn about Postgres, and not to run it on anything important. |
 | [*Service Workies*](https://serviceworkies.com/) | Learn how to use service workers for progressive web apps (PWAs) as a service worker named Kolohe yourself and slay the dragons of PWA pitfalls (~~179 USD~~ **FREE**). |
 | [*SpaceTraders API*](https://spacetraders.io/) | Language-agnostic space trading game  using a RESTful API. Like [*Elite*](https://en.wikipedia.org/wiki/Elite_(video_game)) for mega-nerds but there are no pirates or Thargoids to worry about (yet). |
+| [*Tynker*](https://www.tynker.com/) | Widely acclaimed and gamified platform for learning programming geared towards a K-8 audience. Includes lessons on topics such as Scratch-inspired visual programming, Python and JavaScript with applications like Minecraft modding and machine learning. |
 
-* [Tynker](https://www.tynker.com/)
 * [Untrusted](https://alexnisnevich.github.io/untrusted/)
 * [Vim Adventures](https://vim-adventures.com/) (n.b.: $25 for six months access to the full version)
 * [VimGolf](https://www.vimgolf.com/)
