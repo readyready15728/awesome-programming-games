@@ -216,8 +216,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Untrusted*](https://untrustedgame.com) | Help Dr. Eval escape a dark and confusing roguelike reality with the power of JavaScript but beware: only few ways to do so will be open to you in every level. |
 | [*Vim Adventures*](https://vim-adventures.com/) | Finally learn how to exit Vim and so much more while saving Textland. Starts at 35 USD for 6 months access. |
 | [*VimGolf*](https://www.vimgolf.com/) | [Code golf](https://en.wiktionary.org/wiki/code_golf) but for Vim specifically.  |
+| [*Vindinium*](https://github.com/ornicar/vindinium) | Multi-player turn-based dungeon crawling game where your goal as one of several competing player characters is to program yourself to accumulate more gold than the others. Fight goblins and other players to take control of gold mines and spend your gold at the tavern to regain your health on your way to the top. The website is no more and the domain is owned by "Internet parasites". The repository is now also in read-only mode. |
 
-* [Vindinium](https://github.com/ornicar/vindinium)
 * [VulnHub](https://www.vulnhub.com)
 * [W3Challs](https://w3challs.com/)
 * [WarriorJS](https://warriorjs.com/)
