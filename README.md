@@ -217,8 +217,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Vim Adventures*](https://vim-adventures.com/) | Finally learn how to exit Vim and so much more while saving Textland. Starts at 35 USD for 6 months access. |
 | [*VimGolf*](https://www.vimgolf.com/) | [Code golf](https://en.wiktionary.org/wiki/code_golf) but for Vim specifically.  |
 | [*Vindinium*](https://github.com/ornicar/vindinium) | Multi-player turn-based dungeon crawling game where your goal as one of several competing player characters is to program yourself to accumulate more gold than the others. Fight goblins and other players to take control of gold mines and spend your gold at the tavern to regain your health on your way to the top. The website is no more and the domain is owned by "Internet parasites". The repository is now also in read-only mode. |
+| [*WarriorJS*](https://warriorjs.com/) | "Code your way through dungeons, prove your skills, and get hired." Using JavaScript of course. The website including anything like getting hiring offers appears to have stagnated but some challenges are still present at least. |
 
-* [WarriorJS](https://warriorjs.com/)
 * [WeChall](http://www.wechall.net/) (not the same as the other, similar-sounding entry!)
 * [XSS Game](https://xss-game.appspot.com/)
 * [Yare](https://yare.io/) - Multiplayer programming strategy game where players write JavaScript to control units ("cats") in real-time 1v1 matches. ELO matchmaking and replays.
