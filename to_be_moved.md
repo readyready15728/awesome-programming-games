@@ -10,6 +10,7 @@
 * [RingZer0 Team Online CTF](https://ringzer0ctf.com/)
 * [Smash the Stack](http://smashthestack.org/)
 * [VulnHub](https://www.vulnhub.com)
+* [W3Challs](https://w3challs.com/)
 * [exploit.education](https://exploit.education/)
 * [io.netgarage.org](https://io.netgarage.org/)
 * [pwnable.kr](http://pwnable.kr)
