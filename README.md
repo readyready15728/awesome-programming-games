@@ -212,7 +212,6 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Schemaverse*](https://github.com/Abstrct/Schemaverse) | Space strategy game where the player either enters SQL commands (more specifically Postgres PL/pgSQL) to order units or writes an AI to carry out those commands itself. Used to be available as a website and is now only available as a GitHub repository. Author advises you that the setup may be very insecure, as it was made to learn about Postgres, and not to run it on anything important. |
 |[*Service Workies*](https://serviceworkies.com/) | Learn how to use service workers for progressive web apps (PWAs) as a service worker named Kolohe yourself and slay the dragons of PWA pitfalls (~~179 USD~~ **FREE**). |
 
-* [Smash the Stack](http://smashthestack.org/)
 * [SpaceTraders API](https://spacetraders.io/) (RESTful API MMO Space Trading game)
 * [Tic-Tac-Toe](https://codepen.io/alvaromontoro/pen/BexWOw)
 * [Tynker](https://www.tynker.com/)
