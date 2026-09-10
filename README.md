@@ -81,6 +81,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 
 | Title | Description and Notes |
 |---|---|
+| [*1-DC*](https://89o.itch.io/1dc) | Find out what happened to your spouse by solving algorithmic puzzles using what looks like an extremely stripped-down [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) using only three commands. |
 | [*1000-BIT*](https://89o.itch.io/1000-bit) | Use a custom C-like programming language to implement various math functions, but there's a catch: (almost) everything is in binary. |
 | [*A=B*](https://store.steampowered.com/app/1720850/AB/) | "A programming puzzle game with only one instruction: `A=B`, which means replacing `A` with `B`." Unlike most minimalist approaches this one deals with string handling rather than any sort of assembly variant. |
 | [*Adventure Land*](https://adventure.land/) | Indie MMORPG with optional automation of tedious grinding by programming player characters with JavaScript. (Appears to be abandoned.) |
