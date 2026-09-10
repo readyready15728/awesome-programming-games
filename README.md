@@ -83,6 +83,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 |---|---|
 | [*1-DC*](https://89o.itch.io/1dc) | Find out what happened to your spouse by solving algorithmic puzzles using what looks like an extremely stripped-down [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) using only three commands. |
 | [*1000-BIT*](https://89o.itch.io/1000-bit) | Use a custom C-like programming language to implement various math functions, but there's a catch: (almost) everything is in binary. |
+| [*The 6-digit computer*](https://89o.itch.io/6dc) | Solve various algorithmic puzzles with what the author calls a "bijective senary" number system, having only the digits 1-6 (no 0 even). Author advises that the quality of the game is very low. |
 | [*A=B*](https://store.steampowered.com/app/1720850/AB/) | "A programming puzzle game with only one instruction: `A=B`, which means replacing `A` with `B`." Unlike most minimalist approaches this one deals with string handling rather than any sort of assembly variant. |
 | [*Adventure Land*](https://adventure.land/) | Indie MMORPG with optional automation of tedious grinding by programming player characters with JavaScript. (Appears to be abandoned.) |
 | [*Algo Bot*](http://www.algo-bot.com/) | Rescue a colony ship's mission in space using a visual programming language. Users have claimed to experienced various difficulties including with a buggy Linux native version. |
