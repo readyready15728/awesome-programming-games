@@ -125,6 +125,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Kodu*](https://www.kodugamelab.com/) | Create 3-D worlds with agents and objects and control them using a visual programming language. Intended for children but can be used at all ages. |
 | [*KnotBot*](https://store.steampowered.com/app/1269830/KnotBot/) | "Solve coding problems with knots and yarn-balls instead of text and numbers." Also has a visual programming language. |
 | [*Learn Git Branching*](https://learngitbranching.js.org/) | Interactive Git tutorial from basic commands to increasingly arcane ones. |
+| [*Learning Factory*](https://luden.io/lf/) | A Factorio-like game about making cats happy where you can use machine learning to increase quality of service. There is also an [eductional version](https://luden.io/lfedu/). |
 | [*Logic World*](https://logicworld.net/) | Think Minecraft, but exclusively for digital logic. Includes multiplayer options. |
 | [*LogicBots*](https://store.steampowered.com/app/290020/LogicBots/) | Design and build robots in a 3-D world and combine logic gates to control their behavior and meet various objectives. |
 | [*Manufactoria 2022*](https://store.steampowered.com/app/1276070/Manufactoria_2022/) | A game about creating robotic finite automata that pass increasingly difficult tests, a greatly expanded remake of the original Flash game *Manufactoria*. (See below.) |
