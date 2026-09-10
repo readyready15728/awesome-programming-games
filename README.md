@@ -144,6 +144,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Oh My Git*](https://ohmygit.org/) | Learn Git with an educational open source game. |
 | [*One Dreamer*](https://www.one-dreamer.com/thegame/) | Help a burnt-out indie game developer rediscover his love of video games with a C#-based programming language. |
 | [*Pony Island*](https://www.pony-island.com/) | Escape from an arcade machine devised by the devil himself by modifying its infernal software. |
+| [*Pragma Twice*](https://store.steampowered.com/app/3528840/Pragma_Twice/) | A game where your consciousness has been transferred into a new robotic body deep in a research facility that doesn't seem to adhere closely to medical ethics. Unfortunately the kernel of your robotic mind is written in JavaScript and you must augment it to solve increasingly complex levels. Everything in the world has an API and every level can be automated. |
 | [*Prelogate*](https://store.steampowered.com/app/332830/Prelogate/) | Solve puzzles by redirecting, mixing and controlling laser beams with logic gates. |
 | [*Prime Mover*](https://www.4bitgames.com/primemover) | Build circuit boards from basic transistors  to whole processors, uncovering the story of "Byte of Burden" along the way. |
 | [*Programming Game*](https://sentry456123.itch.io/programming-game) | Somewhat generically named game where the goal is to get your robot to bring crates to the hole. Language resembles a more verbose assembly and makes use of pointers. |
