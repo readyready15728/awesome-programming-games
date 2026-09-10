@@ -164,6 +164,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Turing Complete*](https://turingcomplete.game/) | Like a gamified version of [*The Elements of Computing*](https://www.nand2tetris.org/) by Noam Nisan and Shimon Schocken, or at least the first half or so thereof. Covers the universal NAND gate all the way up to assembly through puzzles at progressively higher levels of abstraction. |
 | [*Virtual Circuit Board*](https://www.virtualcircuitboard.com/) | Sandbox-only, drawing based digital logic simulator which requires at least basic prior knowledge of the subject matter. Includes the ability to define custom assembly instructions. |
 | [*while True: learn()*](https://luden.io/wtl/) | Use machine learning through visual programming to solve puzzles, create a cat-to-human translator and amass a fortune. |
+| [*YENDOR*](https://olifog.itch.io/yendor) | Rogue- and Zachlike programming game where you send a bot into a deep dungeon, fighting enemies and buying upgrades on a quest to uncover the mystery of the Wizard of Yendor. |
 
 ## Recent Games, Mobile
 
