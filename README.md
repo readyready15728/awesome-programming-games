@@ -5,10 +5,10 @@
 N.b.: Only *readily playable* games will be included here. This means that
 original code is available (as well as a separate emulator if needed), or one
 or more reimplementations, or both. Examples such as
-[Struggle](https://pages.lip6.fr/Christian.Queinnec/WWW/Concurrency.html) are
+[*Struggle*](https://pages.lip6.fr/Christian.Queinnec/WWW/Concurrency.html) are
 all well and good but are excluded by this criterion. Additionally there have
 to be at least some scraps of documentation. This would appear to exclude a
-game like ['bot](https://corewar.co.uk/bot.htm). Lastly, I have now specified
+game like [*'bot*](https://corewar.co.uk/bot.htm). Lastly, I have now specified
 as a [response to a question on a pull
 request](https://github.com/readyready15728/awesome-programming-games/pull/18),
 namely "What qualifies a game as being gamified?" that "The application or
