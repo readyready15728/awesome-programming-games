@@ -249,10 +249,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 
 | Title | Description and Notes |
 |-------|-----------------------|
-| *Baba Is You* ([Switch](https://www.nintendo.com/games/detail/baba-is-you-switch/)) | Lorem ipsum |
 | *Carnage Heart* ([PlayStation](https://en.wikipedia.org/wiki/Carnage_Heart)) | Lorem ipsum |
-| *Dreams* ([PlayStation 4](https://en.wikipedia.org/wiki/Dreams_(video_game))) | Lorem ipsum |
-| *Exception* ([PlayStation 4](https://store.playstation.com/en-us/product/UP4469-CUSA12827_00-EXCEPTION0000001) / [Switch](https://www.nintendo.com/games/detail/exception-switch/) / [Xbox One](https://www.microsoft.com/en-us/p/exception/bssklhhh96ds)) | Lorem ipsum |
 | *7 Billion Humans* ([Switch](https://www.nintendo.com/games/detail/7-billion-humans-switch/)) | Lorem ipsum |
 
 <!-- reversing.kr category TBD -->
