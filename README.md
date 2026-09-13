@@ -31,7 +31,7 @@ do not support them. I hope the bubble bursts soon.
 ## Classic Games (in Order of Release)
 
 | Title | Description and Notes |
-|---|---|
+|-------|-----------------------|
 | [*Darwin* (1961)](https://corewar.co.uk/darwin.htm) | A historically significant game and experiment in artificial life first implemented on an IBM 7090 at Bell Labs. Players create machine code "organisms" with the twofold goals of becoming the most prolific replicators and wiping out all of their foes. |
 | [*RobotWar* (1970s)](https://corewar.co.uk/robotwar.htm) | A programming game originally written for the legendary PLATO system. (For more information on PLATO, consider picking up [*The Friendly Orange Glow*](http://friendlyorangeglow.com/) by Brian Dear.) The original object of the game was to use a register-based language apparently inspired by assembly and BASIC to control the movement, radar and gun of a battle robot and be the last standing out of two. A later Apple II release available on the linked website expanded the number of contestants to as many as five. There is even a [Clojure reimplementation](https://github.com/richardharrington/robotwar), though it seems incomplete. |
 | [*Color Robot Battle* (1981)](https://corewar.co.uk/colorrobotbattle.htm) | A game with a similar premise as *RobotWar*, though competing robots are now armed with missiles as well as a laser gun. In addition, the language created for this game appears to be partially inspired by Logo. The retrocomputing site [Color Computer Archive](https://colorcomputerarchive.com/) hosts the [original TRS-80 binary](https://colorcomputerarchive.com/repo/Disks/Games/Color%20Robot%20Battle%20(Tandy).zip) as well as a [PDF of the original manual](https://colorcomputerarchive.com/repo/Documents/Manuals/Games/Color%20Robot%20Battle%20(Tandy).pdf). |
@@ -60,7 +60,7 @@ do not support them. I hope the bubble bursts soon.
 ### Tomorrow Corporation (in Order of Release)
 
 | Title | Description and Notes |
-|---|---|
+|-------|-----------------------|
 | [*Human Resource Machine*](https://tomorrowcorporation.com/humanresourcemachine) | Rather than being a tank battler, this newer title expects you to use a toy assembly language to match inputs to expected outputs in a cute corporate office environment. Having played this game myself, I liked the idea but the lack of labeled subroutines and resulting visual spaghetti code really started getting to me after level 20. |
 | [*7 Billion Humans*](https://tomorrowcorporation.com/7billionhumans) | The sequel to *Human Resource Machine*, but with parallel computing! Haven't played this one yet. |
 
@@ -71,7 +71,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 *SpaceChem*.)
 
 | Title | Description and Notes |
-|---|---|
+|-------|-----------------------|
 | [*KOHCTPYKTOP: Engineer of the People*](http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/) | The title appears to be Cyrillic but those are really just capitalized ASCII characters that match their Cyrillic counterparts. Presumably pronounced "CONSTRUCTOR". The game is based on designing integrated circuits based on specifications provided by a manager in what is presumably some sort of Soviet factory, with an overarching plot somehow involving a mysterious connection to communism. |
 | [*TIS-100*](http://www.zachtronics.com/tis-100/) | 80's-themed assembly language puzzle with multiple independently programmable nodes capable of communication with each other, apparently a sort of [MIMD architecture](https://en.wikipedia.org/wiki/Multiple_instruction,_multiple_data). Features extensive manual that reads "like the real thing". |
 | [*SHENZHEN I/O*](http://www.zachtronics.com/shenzhen-io/) | Build increasingly complex digital logic circuitry, this time not for your Soviet boss, but as a worker for a private firm in the "electronics capital of the world". Shares the same sort of extensive, realistic documentation present in *TIS-100* and includes a solitaire minigame. |
