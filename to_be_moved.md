@@ -11,6 +11,7 @@
 * [Smash the Stack](http://smashthestack.org/)
 * [VulnHub](https://www.vulnhub.com)
 * [W3Challs](https://w3challs.com/)
+* [WeChall](http://www.wechall.net/) (not the same as the other, similar-sounding entry!)
 * [exploit.education](https://exploit.education/)
 * [io.netgarage.org](https://io.netgarage.org/)
 * [pwnable.kr](http://pwnable.kr)
