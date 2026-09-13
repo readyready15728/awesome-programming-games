@@ -80,7 +80,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 ### Others
 
 | Title | Description and Notes |
-|---|---|
+|-------|-----------------------|
 | [*1-DC*](https://89o.itch.io/1dc) | Find out what happened to your spouse by solving algorithmic puzzles using what looks like an extremely stripped-down [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) using only three commands. |
 | [*1000-BIT*](https://89o.itch.io/1000-bit) | Use a custom C-like programming language to implement various math functions, but there's a catch: (almost) everything is in binary. |
 | [*The 6-digit computer*](https://89o.itch.io/6dc) | Solve various algorithmic puzzles with what the author calls a "bijective senary" number system, having only the digits 1-6 (no 0 even). Author advises that the quality of the game is very low. |
