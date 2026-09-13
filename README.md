@@ -249,8 +249,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 
 | Title | Description and Notes |
 |-------|-----------------------|
-| *Carnage Heart* ([PlayStation](https://en.wikipedia.org/wiki/Carnage_Heart)) | Lorem ipsum |
-| *7 Billion Humans* ([Switch](https://www.nintendo.com/games/detail/7-billion-humans-switch/)) | Lorem ipsum |
+| *Carnage Heart* ([PlayStation](https://en.wikipedia.org/wiki/Carnage_Heart)) | Turn-based tactics game where you command a team of mechas using flowcharts in order to reclaim Jupiter's moons from an evil corporation called Drakken. |
+| *7 Billion Humans* ([Switch](https://www.nintendo.com/games/detail/7-billion-humans-switch/)) | Port of the aforementioned *7 Billion Humans* to the Nintendo Switch. |
 
 <!-- reversing.kr category TBD -->
 <!-- Riddles.io -->
