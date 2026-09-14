@@ -121,6 +121,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Else Heart.Break()*](http://elseheartbreak.com/) | 3-D graphical adventure game in which numerous everyday objects can be programmed as a means of solving the game's puzzles. |
 | [*The Farmer Was Replaced*](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/) | "Program and optimize a drone to automate a farm and watch it do the work for you. Collect resources to unlock better technology and become the most efficient farmer in the world. Improve your problem solving and coding skills." |
 | [*git gud*](https://store.steampowered.com/app/1490570/git_gud/) | A command line puzzle game where you git gud at Git by typing in the correct Git commands. |
+| [*git-gud*](https://github.com/benthayer/git-gud) | An open source game like the other one with almost the same name. These appear to be completely unrelated efforts where the authors used the same lame pun. |
 | [*git-game*](https://github.com/git-game/git-game) | "Terminal game to test Git skills." |
 | [*git-game-v2*](https://github.com/git-game/git-game-v2) | Sequel to git-game testing the user on more advanced aspects of Git. |
 | [*Gladiabots*](https://gladiabots.com/) | Configure squads of robots with a visual programming language. Test and improve your strategies then deploy them on the battlefield against against computer opponents or online against other humans. |
