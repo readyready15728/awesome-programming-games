@@ -172,6 +172,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Silicon Zeroes*](http://pleasingfungus.com/Silicon%20Zeroes/) | Travel back to the 60s and prevent the very first Silicon Valley startup from imploding by designing novel computing hardware from the ground up. |
 | [*Syscall*](https://store.steampowered.com/app/4849330/SYSCALL_RING_ZERO/) | Cyberpunk reverse engineering and assembly game set in a private 90s warez BBS. |
 | [*SokoCode*](https://werxzy.itch.io/sokocode) | The classic puzzle [*Sokoban*](https://en.wikipedia.org/wiki/Sokoban) but with assembly language. |
+| [*Star Stuff*](https://store.steampowered.com/app/1955110/Star_Stuff/) | Visual programming game where you instruct bots on how to run a star factory, sometimes pitching in with your own manual labor. |
 | [*Stone Story RPG*](https://stonestoryrpg.com/) | ASCII art RPG with strategic combat and deep crafting system that includes automation with its own bespoke scripting language, Stonescript. |
 | [*Stormworks: Build and Rescue*](https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/) | Design, create and pilot your own air sea rescue service, including the use of Lua scripting for custom behavior. |
 | [*Super Markup Man*](https://www.roppychop.com/pc/markup-man/) | Learn HTML and CSS with a 2-D puzzle platformer. |
