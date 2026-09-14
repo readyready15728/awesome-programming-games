@@ -245,8 +245,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*VimGolf*](https://www.vimgolf.com/) | [Code golf](https://en.wiktionary.org/wiki/code_golf) but for Vim specifically.  |
 | [*Vindinium*](https://github.com/ornicar/vindinium) | Multi-player turn-based dungeon crawling game where your goal as one of several competing player characters is to program yourself to accumulate more gold than the others. Fight goblins and other players to take control of gold mines and spend your gold at the tavern to regain your health on your way to the top. The website is no more and the domain is owned by "Internet parasites". The repository is now also in read-only mode. |
 | [*WarriorJS*](https://warriorjs.com/) | "Code your way through dungeons, prove your skills, and get hired." Using JavaScript of course. The website including anything like getting hiring offers appears to have stagnated but some challenges are still present at least. |
-
-* [Yare](https://yare.io/) - Multiplayer programming strategy game where players write JavaScript to control units ("cats") in real-time 1v1 matches. ELO matchmaking and replays.
+| [*Yare*](https://yare.io/) | Program your cats to wipe out the opponent's cats (controlled by either a bot or another human) with JavaScript. The game features an ELO ranking system. |
 
 ## Recent Games, Console
 
