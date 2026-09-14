@@ -170,6 +170,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*SIC-1*](https://thinkygames.com/games/sic-1/https://thinkygames.com/games/sic-1/) | Climb the corporate ladder (and leaderboards) by using an ISA with only *one* instruction. |
 | [*The Signal Station*](https://store.steampowered.com/app/1577620/The_Signal_State/) | Use code and circuitry to repair machines patterned on modular synthesizers and help recover from a post-apocalyptic future. |
 | [*Silicon Zeroes*](http://pleasingfungus.com/Silicon%20Zeroes/) | Travel back to the 60s and prevent the very first Silicon Valley startup from imploding by designing novel computing hardware from the ground up. |
+| [*Syscall*](https://store.steampowered.com/app/4849330/SYSCALL_RING_ZERO/) | Cyberpunk reverse engineering and assembly game set in a private 90s warez BBS. |
 | [*SokoCode*](https://werxzy.itch.io/sokocode) | The classic puzzle [*Sokoban*](https://en.wikipedia.org/wiki/Sokoban) but with assembly language. |
 | [*Stone Story RPG*](https://stonestoryrpg.com/) | ASCII art RPG with strategic combat and deep crafting system that includes automation with its own bespoke scripting language, Stonescript. |
 | [*Stormworks: Build and Rescue*](https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/) | Design, create and pilot your own air sea rescue service, including the use of Lua scripting for custom behavior. |
