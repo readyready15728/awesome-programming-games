@@ -147,6 +147,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Move Code Lines*](https://store.steampowered.com/app/1300310/Move_Code_Lines/) | Debug and fix code with the huge caveat that you can only do so by altering the order of existing lines, hence the name. |
 | [*NebuLeet*](https://store.steampowered.com/app/3024370/NebuLeet) | Lead a paramilitary force against a nascent dangerous cult, including with programmable ships that, if well-instructed, can even turn the tide against superior technology. |
 | [*Neon Noodles*](https://neonnoodles.com/) | Run a hectic commercial kitchen, but with visually programmed robots to lighten the load. |
+| [*Net.Attack() - Code or Die!*](https://store.steampowered.com/app/3047370/NetAttack__Code_or_Die/) | Cyberpunk [bullet heaven](https://en.wikipedia.org/wiki/Bullet_hell#Bullet_heaven) hacking game driven by visual programming. |
 | [*Oh My Git*](https://ohmygit.org/) | Learn Git with an educational open source game. |
 | [*One Dreamer*](https://www.one-dreamer.com/thegame/) | Help a burnt-out indie game developer rediscover his love of video games with a C#-based programming language. |
 | [*Pony Island*](https://www.pony-island.com/) | Escape from an arcade machine devised by the devil himself by modifying its infernal software. |
