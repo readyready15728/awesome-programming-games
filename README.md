@@ -108,6 +108,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Codemancer*](https://codemancergame.com/) | Learn to program using a specialized visual programming language. Targeted at ages 6-12, but suitable for all ages. |
 | [*Colobot*](https://colobot.info/) | Use a bespoke language similar to C++ and Java to explore and colonize hostile planets after life on Earth is threatened by a great cataclysm. |
 | [*Comet 64*](https://store.steampowered.com/app/1397290/Comet_64/) | Use a hybrid of assembly and C-like syntax to unlock the mysteries of the titular fictional computer. Includes leaderboards for minimizing instruction and cycle counts. |
+| [*Compile & Defend*](https://store.steampowered.com/app/4915240/Compile__Defend/) | A tower defense game where you don't control the towers manually but instead code them to respond on each tick in Python, JavaScript, C++, C#, Rust, Zig or Lua. "Better algorithms defeat more towers." |
 | [*Craftomation: Programming & Craft*](https://luden.io/craftomation/) | Automate the terraforming of a frozen planet with robots programmed using a visual programming language. |
 | [*Crescent Loom*](https://crescentloom.com/) | Evolve digital creatures using biologically plausible neural nets. |
 | [*CRUMB Circuit Simulator*](https://store.steampowered.com/app/2198800/CRUMB_Circuit_Simulator/) | 3-D sandbox circuit simulator without the hassle of component failure or ordering parts. Includes microcontroller emulation programmable with Arduino code. |
