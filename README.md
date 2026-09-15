@@ -198,6 +198,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Virtual Circuit Board*](https://www.virtualcircuitboard.com/) | Sandbox-only, drawing based digital logic simulator which requires at least basic prior knowledge of the subject matter. Includes the ability to define custom assembly instructions. |
 | [*while True: learn()*](https://luden.io/wtl/) | Use machine learning through visual programming to solve puzzles, create a cat-to-human translator and amass a fortune. |
 | [*YENDOR*](https://olifog.itch.io/yendor) | Rogue- and Zachlike programming game where you send a bot into a deep dungeon, fighting enemies and buying upgrades on a quest to uncover the mystery of the Wizard of Yendor. |
+| [*You Are the Code*](https://thinkygames.com/games/you-are-the-code/) | Coding puzzle games where you can't type but instead have to solve the puzzles by rearranging existing lines. |
 
 ## Recent Games, Mobile
 
