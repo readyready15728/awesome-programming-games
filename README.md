@@ -212,6 +212,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | Title | Description and Notes |
 |-------|-----------------------|
 | *Automaton* ([Android](https://play.google.com/store/apps/details?id=com.JeremyFriesen.AutomationInc)) | Program the titular android, named Auto, to work in a factory using a C-like syntax. |
+| *CHRONOS I* ([iOS](https://apps.apple.com/us/app/chronos-i/id6795232566)) | Hacking escape room that takes you from PDP-11 Unix to Linux in the present day. |
 | *CRUMB Circuit Simulator* ([iOS](https://apps.apple.com/gb/app/crumb/id1639868071)) | See above for description. |
 | *Gladiabots* ([Android](https://play.google.com/store/apps/details?id=com.GFX47.Gladiabots) / [iOS](https://apps.apple.com/app/gladiabots/id1469623947)) | See above for description. |
 | *Human Resource Machine* ([Android](https://play.google.com/store/apps/details?id=com.tomorrowcorporation.humanresourcemachine) / [iOS](https://apps.apple.com/us/app/human-resource-machine/id1005098334)) | See above for description. |
