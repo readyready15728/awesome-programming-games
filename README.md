@@ -112,7 +112,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Compile & Defend*](https://store.steampowered.com/app/4915240/Compile__Defend/) | A tower defense game where you don't control the towers manually but instead code them to respond on each tick in Python, JavaScript, C++, C#, Rust, Zig or Lua. "Better algorithms defeat more towers." |
 | [*Craftomation: Programming & Craft*](https://luden.io/craftomation/) | Automate the terraforming of a frozen planet with robots programmed using a visual programming language. |
 | [*Crescent Loom*](https://crescentloom.com/) | Evolve digital creatures using biologically plausible neural nets. |
-| [*CRUMB Circuit Simulator*](https://store.steampowered.com/app/2198800/CRUMB_Circuit_Simulator/) | 3-D sandbox circuit simulator without the hassle of component failure or ordering parts. Includes microcontroller emulation programmable with Arduino code. |
+| [*CRUMB Circuit Simulator*](https://www.crumbsim.com/) | 3-D sandbox circuit simulator without the hassle of component failure or ordering parts. Includes microcontroller emulation programmable with Arduino code. |
 | [*Cyber Sentinel*](https://store.steampowered.com/app/485970/Cyber_Sentinel/) | Experience the hacker's side of cyberpunk by using visual programming to create computer viruses. |
 | [*Database Detective: Minor Crimes Division*](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division/) | Help the city of Los Zorangeles by solving criminal cases with the power of SQL queries. |
 | [*DeepestWorld*](https://deepestworld.com/) | Explore, hunt monsters, gather resources, craft and grind using JavaScript to automate the actions of your character. |
