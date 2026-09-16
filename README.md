@@ -185,7 +185,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Screeps*](https://screeps.com/) | Technically two separate games of the robot battler genre, *Screeps: Arena*, which has fast-paced 1v1 battle where matches are based on ratings, and *Screeps: World*, a slower-paced persistent MMO world with PvP and PvE features. The primary language for Screeps is JavaScript but transpilation and WASM enable a number of other languages, such as TypeScript and Python. |
 | [*Selfless Heroes*](https://selflessheroes.fr/) | Lead your heroes through the dungeon towards victory using high-level parallel programming. |
 | [*SIC-1*](https://thinkygames.com/games/sic-1/) | Climb the corporate ladder (and leaderboards) by using an ISA with only *one* instruction. |
-| [*The Signal State*](https://store.steampowered.com/app/1577620/The_Signal_State/) | Use code and circuitry to repair machines patterned on modular synthesizers and help recover from a post-apocalyptic future. |
+| [*The Signal State*](https://signalstate.io/) | Use code and circuitry to repair machines patterned on modular synthesizers and help recover from a post-apocalyptic future. |
 | [*Silicon Zeroes*](http://pleasingfungus.com/Silicon%20Zeroes/) | Travel back to the 60s and prevent the very first Silicon Valley startup from imploding by designing novel computing hardware from the ground up. |
 | [*Syscall*](https://store.steampowered.com/app/4849330/SYSCALL_RING_ZERO/) | Cyberpunk reverse engineering and assembly game set in a private 90s warez BBS. |
 | [*SokoCode*](https://werxzy.itch.io/sokocode) | The classic puzzle [*Sokoban*](https://en.wikipedia.org/wiki/Sokoban) but with assembly language. |
