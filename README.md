@@ -231,13 +231,13 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*BOX-256*](http://box-256.com/) | Write in a very minimalistic assembly language in order to pass graphical display tests. |
 | [*Battlecode*](https://www.battlecode.org/) | "MIT's premier programming competition"! An annual compeition held each January where teams of programmed virtual robots face off 1v1 with the possibility of cash prizes. (See website for further details and conditions.) |
 | [*Blockly*](https://blockly.games/) | Online educational games using the visual programming engine underlying the famous Scratch language (since version 3.0). |
-| [*CSS Diner*](http://flukeout.github.io/) | Learn CSS selectors by clearing items from a table at a diner. |
 | [*CheckiO*](https://checkio.org/) | Hop from one island to another while playing coding games in Python or TypeScript to advance your journey. |
 | [*CODE4WIN*](https://code4win.com/) | Browser-based programming game platform where you solve puzzles using JavaScript and, if you desire, optimize your solutions in order to climb the leaderboard. Currently has only one challenge, the elevator game, at the time of this commit. Not to be confused with the C-based computer science education site named [codeforwin.*org*](https://codeforwin.org/). |
 | [*Code Games*](http://codegames.io) | Commercial offering geared towards learning about programming and cloud collaboration through quick two-hour tournaments. Your goal is to shoot down as many enemy spaceships as possible while preserving your own. The game uses what appears to be a custom language influenced by JavaScript and Ruby. |
 | [*CodeMonkey*](https://www.codemonkey.com/) | Award-winning educational game platform teaching CoffeeScript and Python to a K-8 student audience. |
 | [*CodinGame*](https://www.codingame.com/) | Site with numerous gamified puzzles including timed challenges and code golf challenges. Play and even maybe get hired with 25 programming languages, including Python, JavaScript, TypeScript, Java and C++. |
 | [*corewars8086_js*](https://shooshx.github.io/corewars8086_js/) | *Core War* in a browser with full-featured GUI editor, assembler and debugger. |
+| [*CSS Diner*](http://flukeout.github.io/) | Learn CSS selectors by clearing items from a table at a diner. |
 | [*Cube Composer*](https://david-peter.de/cube-composer/) | Stack colored cubes using functional programming principles. |
 | [*Elevator Saga*](http://play.elevatorsaga.com/) | A game where, fittingly, the goal is to deliver elevator passengers in a timely manner using JavaScript. |
 | [*Flexbox Defense*](http://www.flexboxdefense.com/) | A tower defense game where you have to position your towers using the Flexbox layout method of CSS. |
