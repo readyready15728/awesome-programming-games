@@ -91,7 +91,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Algo Bot*](https://store.steampowered.com/app/286300/Algo_Bot/) | Rescue a colony ship's mission in space using a visual programming language. Users have claimed to experienced various difficulties including with a buggy Linux native version. |
 | [*Algorithms*](https://store.steampowered.com/app/5042050/Algorithms/) | Practice data structures and algorithms offline in C, run test suites and get scored on instruction counts in a RISC-like assembly language. |
 | [*AntMe!*](http://www.antme.net/) | Learn to program by automating computerized cartoon ants in C# or VB.NET! Much documentation appears to be only available in the original German. |
-| [*Arcane Assembly*](https://store.steampowered.com/app/2356150/Arcane_Assembly/) | Fast-paced fantasy metroidvania where you (a mage) create increasingly powerful and sophisticated spells using a visual programming language. |
+| [*Arcane Assembly*](https://arcane.ionforgelabs.com/) | Fast-paced fantasy metroidvania where you (a mage) create increasingly powerful and sophisticated spells using a visual programming language. |
 | [*Automachef*](https://store.steampowered.com/app/984800/Automachef/) | Meet the demands of a hectic commercial kitchen the best way anyone can: with programming! There are two related assembly languages used in game with some helpful visual elements for neophytes. |
 | [*Autonauts*](https://store.steampowered.com/app/979120/Autonauts/) | Build and, of course, automate a colony of agriculture and industry using a Scratch-like visual programming language. |
 | [*Bashcrawl*](https://gitlab.com/slackermedia/bashcrawl) | "Learn Linux commands by playing a simple text adventure." |
