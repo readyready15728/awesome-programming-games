@@ -119,7 +119,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Debugger 3.16: Hack 'n' Run*](https://store.steampowered.com/app/339720/Debugger_316_HacknRun/) | Help a sentient debugger get rid of all the bugs in a developer's game worlds. |
 | [*Duskers*](http://duskers.misfits-attic.com/) | "Pilot drones into derelict spaceships to find the means to survive and piece together how the universe became a giant graveyard Pilot drones into derelict spaceships to find the means to survive and piece together how the universe became a giant graveyard." |
 | [*Desynced*](https://www.desyncedgame.com/) | Futuristic survival game where said survival depends on programming a swarm of robots using a visual programming language. |
-| [*Echoes of the Architects*](https://store.steampowered.com/app/3136490/Echoes_of_the_Architects/) | Use a very high-level programming language to compete in an RTS autobattler. |
+| [*Echoes of the Architects*](https://echoes-of-the-architects.com/) | Use a very high-level programming language to compete in an RTS autobattler. |
 | [*Else Heart.Break()*](http://elseheartbreak.com/) | 3-D graphical adventure game in which numerous everyday objects can be programmed as a means of solving the game's puzzles. |
 | [*The Farmer Was Replaced*](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/) | "Program and optimize a drone to automate a farm and watch it do the work for you. Collect resources to unlock better technology and become the most efficient farmer in the world. Improve your problem solving and coding skills." |
 | [*git gud*](https://store.steampowered.com/app/1490570/git_gud/) | A command line puzzle game where you git gud at Git by typing in the correct Git commands. |
