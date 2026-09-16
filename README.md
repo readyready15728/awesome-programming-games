@@ -114,7 +114,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | [*Crescent Loom*](https://crescentloom.com/) | Evolve digital creatures using biologically plausible neural nets. |
 | [*CRUMB Circuit Simulator*](https://www.crumbsim.com/) | 3-D sandbox circuit simulator without the hassle of component failure or ordering parts. Includes microcontroller emulation programmable with Arduino code. |
 | [*Cyber Sentinel*](https://store.steampowered.com/app/485970/Cyber_Sentinel/) | Experience the hacker's side of cyberpunk by using visual programming to create computer viruses. |
-| [*Database Detective: Minor Crimes Division*](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division/) | Help the city of Los Zorangeles by solving criminal cases with the power of SQL queries. |
+| [*Database Detective: Minor Crimes Division*](https://thinkygames.com/games/database-detective-minor-crimes-division) | Help the city of Los Zorangeles by solving criminal cases with the power of SQL queries. |
 | [*DeepestWorld*](https://deepestworld.com/) | Explore, hunt monsters, gather resources, craft and grind using JavaScript to automate the actions of your character. |
 | [*Debugger 3.16: Hack 'n' Run*](http://www.spiderwork-games.com/debugger.htm) | Help a sentient debugger get rid of all the bugs in a developer's game worlds. |
 | [*Dreamjob: Programmer Simulator*](https://store.steampowered.com/app/1264390/Dreamjob_Programmer_Simulator__Learn_Programming_Games/) | Climb the corporate ladder and level up as a programmer using Python, C++, C#, Java or JavaScript. (TBA.) |
