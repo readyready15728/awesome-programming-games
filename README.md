@@ -221,8 +221,8 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | *LightBot Jr* ([iOS](https://apps.apple.com/us/app/lightbot-jr-coding-puzzles-for-ages-4/id858640629)) | Similar to *LightBot* but a bit easier and targeted at a younger audience. |
 | *SpriteBox Coding* ([iOS](https://apps.apple.com/us/app/light-bot/id1270538471)) | From the makers of *LightBot* and *LightBot Jr*, with the novel approach of starting with a visual programming language that gives way to real Swift code as you progress. |
 | *Swift Playgrounds* ([iPad](https://apps.apple.com/app/id908519492)) | An official coding education app from Apple that teaches the use of Swift and SwiftUI in an interactive 3-D world. |
-| *TIS-100P* ([iPad](https://apps.apple.com/app/tis-100p/id1070879899)) | Port of the aforementioned *TIS-100* to the iPad. |
-| *7 Billion Humans* ([iOS](https://apps.apple.com/us/app/7-billion-humans/id1393923918)) | Port of the aforementioned *7 Billion Humans* to iOS devices. |
+| *TIS-100P* ([iPad](https://apps.apple.com/app/tis-100p/id1070879899)) | See above for description. |
+| *7 Billion Humans* ([iOS](https://apps.apple.com/us/app/7-billion-humans/id1393923918)) | See above for description. |
 
 ## Recent Games, Browser- or Server-Based
 
@@ -277,10 +277,10 @@ under the "programming" rubric. I have now excluded a number of titles such as
 
 | Title | Description and Notes |
 |-------|-----------------------|
-| *Automachef* ([Switch](https://www.nintendo.com/us/store/products/automachef-switch/)) | Port of the aforementioned Automachef to the Switch. |
-| *Autonauts* ([PS4 / PS5](https://store.playstation.com/en-gb/product/EP4395-PPSA03447_00-AUTONAUTSPS5EU00) / [Switch](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Autonauts-2220185.html) / [Xbox One / Xbox Series X/S](https://www.xbox.com/en-GB/games/store/autonauts/9PML6GRKCQ00)) | Several console ports of the aforementioned *Autonauts*. |
+| *Automachef* ([Switch](https://www.nintendo.com/us/store/products/automachef-switch/)) | See above for description. |
+| *Autonauts* ([PS4 / PS5](https://store.playstation.com/en-gb/product/EP4395-PPSA03447_00-AUTONAUTSPS5EU00) / [Switch](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Autonauts-2220185.html) / [Xbox One / Xbox Series X/S](https://www.xbox.com/en-GB/games/store/autonauts/9PML6GRKCQ00)) | See above for description. |
 | *Carnage Heart* ([PlayStation](https://en.wikipedia.org/wiki/Carnage_Heart)) | Turn-based tactics game where you command a team of mechas using flowcharts in order to reclaim Jupiter's moons from an evil corporation called Drakken. |
-| *7 Billion Humans* ([Switch](https://www.nintendo.com/games/detail/7-billion-humans-switch/)) | Port of the aforementioned *7 Billion Humans* to the Switch. |
+| *7 Billion Humans* ([Switch](https://www.nintendo.com/games/detail/7-billion-humans-switch/)) | See above for description. |
 
 <!-- reversing.kr category TBD -->
 <!-- Riddles.io -->
