@@ -273,6 +273,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 
 | Title | Description and Notes |
 |-------|-----------------------|
+| *Automachef* ([Switch](https://www.nintendo.com/us/store/products/automachef-switch/)) | Port of the aforementioned Automachef to the Nintendo Switch. |
 | *Carnage Heart* ([PlayStation](https://en.wikipedia.org/wiki/Carnage_Heart)) | Turn-based tactics game where you command a team of mechas using flowcharts in order to reclaim Jupiter's moons from an evil corporation called Drakken. |
 | *7 Billion Humans* ([Switch](https://www.nintendo.com/games/detail/7-billion-humans-switch/)) | Port of the aforementioned *7 Billion Humans* to the Nintendo Switch. |
 
