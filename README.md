@@ -274,6 +274,7 @@ under the "programming" rubric. I have now excluded a number of titles such as
 | Title | Description and Notes |
 |-------|-----------------------|
 | *Automachef* ([Switch](https://www.nintendo.com/us/store/products/automachef-switch/)) | Port of the aforementioned Automachef to the Nintendo Switch. |
+| *Autonauts* ([PS4 / PS5](https://store.playstation.com/en-gb/product/EP4395-PPSA03447_00-AUTONAUTSPS5EU00) / [Switch](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Autonauts-2220185.html) / [Xbox One / Xbox Series X/S](https://www.xbox.com/en-GB/games/store/autonauts/9PML6GRKCQ00)) | Several console ports of the aforementioned *Autonauts*. |
 | *Carnage Heart* ([PlayStation](https://en.wikipedia.org/wiki/Carnage_Heart)) | Turn-based tactics game where you command a team of mechas using flowcharts in order to reclaim Jupiter's moons from an evil corporation called Drakken. |
 | *7 Billion Humans* ([Switch](https://www.nintendo.com/games/detail/7-billion-humans-switch/)) | Port of the aforementioned *7 Billion Humans* to the Nintendo Switch. |
 
